@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/589971/login-security-solution/trunk/tests
+END
+VerifiedIpTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/580100/login-security-solution/trunk/tests/VerifiedIpTest.php
+END
+PasswordForceChangeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/521921/login-security-solution/trunk/tests/PasswordForceChangeTest.php
+END
+DisableLoginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/521921/login-security-solution/trunk/tests/DisableLoginTest.php
+END
+AuthCookieBadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/586642/login-security-solution/trunk/tests/AuthCookieBadTest.php
+END
+Accessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/574364/login-security-solution/trunk/tests/Accessor.php
+END
+LoginFailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/586641/login-security-solution/trunk/tests/LoginFailTest.php
+END
+PasswordExpirationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/521921/login-security-solution/trunk/tests/PasswordExpirationTest.php
+END
+LoginErrorsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/574363/login-security-solution/trunk/tests/LoginErrorsTest.php
+END
+PasswordChangeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/580098/login-security-solution/trunk/tests/PasswordChangeTest.php
+END
+IpTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/585048/login-security-solution/trunk/tests/IpTest.php
+END
+password-validation-profiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/521921/login-security-solution/trunk/tests/password-validation-profiler.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/580101/login-security-solution/trunk/tests/TestCase.php
+END
+PasswordValidationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/589971/login-security-solution/trunk/tests/PasswordValidationTest.php
+END
+LoginMessageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/574363/login-security-solution/trunk/tests/LoginMessageTest.php
+END
+IdleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/537807/login-security-solution/trunk/tests/IdleTest.php
+END

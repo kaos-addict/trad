@@ -1,0 +1,2215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Feather v2.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-31 12:50+0100\n"
+"Last-Translator: mermouy <mermouy@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ Feather
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+# @ Feather
+#: comments.php:19 functions.php:165
+msgid "No Comments"
+msgstr "Aucun commentaire"
+
+# @ Feather
+#: comments.php:19
+msgid "One Comment"
+msgstr "Un commentaire"
+
+# @ Feather
+#: comments.php:19
+msgid "Comments"
+msgstr "Commentaires"
+
+# @ Feather
+#: comments.php:20
+msgid "Join the conversation and post a comment."
+msgstr "Rejoignez la conversation et envoyez un commentaire."
+
+# @ Feather
+#: comments.php:24 comments.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Commentaires plus anciens"
+
+# @ Feather
+#: comments.php:25 comments.php:38
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Commentaires plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+# @ Feather
+#: comments.php:44
+msgid "Trackbacks/Pingbacks"
+msgstr "Retroliens/Permaliens"
+
+# @ Feather
+#: comments.php:64
+msgid "Submit Comment"
+msgstr "Envoyer le commentaire"
+
+# @ Feather
+#: comments.php:64
+msgid "Leave a Comment"
+msgstr "Envoyer un commentaire"
+
+# @ default
+#: comments.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:26 epanel/core_functions.php:389
+msgid "Saving..."
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:73
+msgid "Options"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:90
+msgid "settings saved."
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:93
+msgid "settings reset."
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:111 epanel/options_feather.php:480
+#: epanel/options_feather.php:631
+msgid "General Settings"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:114
+msgid "Navigation"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:123 epanel/options_feather.php:723
+msgid "Colorization"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:126
+msgid "SEO"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:129
+msgid "Integration"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:203 epanel/core_functions.php:377
+#: page-contact.php:140
+msgid "Reset"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:204
+msgid "Upload Image"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:229
+msgid "You don't have pages"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:362
+msgid "Save changes"
+msgstr ""
+
+# @ Feather
+#: epanel/core_functions.php:373
+msgid "This will return all of the settings throughout the options page to their default values. <strong>Are you sure you want to do this?"
+msgstr ""
+
+# @ Feather
+#: epanel/custom_functions.php:434 header.php:63 includes/breadcrumbs.php:4
+msgid "Home"
+msgstr ""
+
+# @ default
+#: epanel/custom_functions.php:840
+msgid "Image doesn't exist"
+msgstr ""
+
+# @ Feather
+#: epanel/custom_functions.php:1029
+#, php-format
+msgid "<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will disappear once you have clicked the Save button within the <a href=\"%2$s\">theme's options page</a>.</p></div>"
+msgstr ""
+
+# @ Feather
+#: epanel/custom_functions.php:1041
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not available for this theme. If this is an Elegant Themes theme, then you must re-download the theme from the member's area and <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr ""
+
+# @ Feather
+#: epanel/custom_functions.php:1045
+msgid "Auto-updates are not available for this theme. If this is an Elegant Themes theme, then you must re-download the theme from the member's area and <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-install it</a> in order to update it to the latest version."
+msgstr ""
+
+# @ Feather
+#: epanel/import_settings.php:12
+msgid "Import epanel settings"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:38
+msgid "General"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:42
+msgid "Homepage"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:46
+msgid "Featured Slider"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:53
+msgid "Logo"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:57
+msgid "If you would like to use your own custom logo image click the Upload Image button."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:60
+msgid "Favicon"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:64
+msgid "If you would like to use your own custom favicon image click the Upload Image button."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:67
+msgid "Background Color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:71
+msgid "This will enable a custom background color. Selecting the field will bring up the color picker which will allow you to choose a custom color."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:74
+msgid "Background Texture"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:79
+msgid "Choose a background texture from the drop down menu."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:82
+msgid "Background Image"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:86
+msgid "If you would like to upload your own background image click the Upload Image button."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:89
+msgid "Header Font"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:94 epanel/options_feather.php:109
+msgid "Choose a font from the drop down menu."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:97
+msgid "Header Font Color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:101
+msgid "This will enable a custom header font color. Selecting the field will bring up the color picker which will allow you to choose a custom color."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:104
+msgid "Body Font"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:112
+msgid "Body Font Color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:116
+msgid "This will enable a custom body font color. Selecting the field will bring up the color picker which will allow you to choose a custom color."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:119
+msgid "Blog Style post format"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:123
+msgid "By default the theme truncates your posts on index/homepages automatically to create post previews. If you would rather show your posts in full on index pages like a traditional blog then you can activate this feature."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:126
+msgid "Grab the first post image"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:130
+msgid "By default thumbnail images are created using custom fields. However, if you would rather use the images that are already in your post for your thumbnail (and bypass using custom fields) you can activate this option. Once activcated thumbnail images will be generated automatically using the first image in your post. The image must be hosted on your own server."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:135
+msgid "Show Twitter Icon"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:139
+msgid "Here you can choose to display the Twitter Icon on the homepage. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:142
+msgid "Show RSS Icon"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:146
+msgid "Here you can choose to display the RSS Icon on the homepage. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:151
+msgid "Show Facebook Icon"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:155
+msgid "Here you can choose to display the Facebook Icon on the homepage. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:160
+msgid "Twitter Profile Url"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:165
+msgid "Place your Twitter Profile URL here. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:168
+msgid "RSS Icon Url"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:173
+msgid "Place your RSS URL here. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:176
+msgid "Facebook Profile Url"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:181
+msgid "Place your Facebook Profile URL here. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:184
+msgid "Number of Posts displayed on Category page"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:189
+msgid "Here you can designate how many recent articles are displayed on the Category page. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:192
+msgid "Number of Posts displayed on Archive pages"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:197
+msgid "Here you can designate how many recent articles are displayed on the Archive pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:200
+msgid "Number of Posts displayed on Search pages"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:205
+msgid "Here you can designate how many recent articles are displayed on the Search results pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:208
+msgid "Number of Posts displayed on Tag pages"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:213
+msgid "Here you can designate how many recent articles are displayed on the Tag pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:216
+msgid "Date format"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:221
+msgid "This option allows you to change how your dates are displayed. For more information please refer to the WordPress codex here:<a href='http://codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and Time</a>"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:226
+msgid "Use excerpts when defined"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:230
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:233
+msgid "Show Control Panel"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:237
+msgid "Here you can choose to show the CSS Control Panel on your homepage. It will only be visible to Administrators that are logged into your Wordpress Dashboard."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:244
+msgid "Custom CSS"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:248
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:258
+msgid "Display Content Areas"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:262
+msgid "Here you can choose to display the Content Areas on the homepage. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:265
+msgid "Display Recent Blog Posts Section"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:269
+msgid "Here you can choose to display the Recent Blog Posts Section on the homepage. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:274
+msgid "Display Homepage Quote"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:278
+msgid "This controls the quote that appears on the homepage 3 blurbs."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:281
+msgid "Display Recent Work Section"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:285
+msgid "Here you can choose to display the Recent Work Section on the homepage. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:290
+msgid "Quote Text"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:294
+msgid "Here you can define the text that appears in the homepage quote."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:297
+msgid "Content Area 1 Page"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:301 epanel/options_feather.php:309
+#: epanel/options_feather.php:317 epanel/options_feather.php:325
+msgid "Choose the page you would like to display in the Content Area. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:305
+msgid "Content Area 2 Page"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:313
+msgid "Content Area 3 Page"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:321
+msgid "Content Area 4 Page"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:329
+msgid "Recent Blog Posts Section Category"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:333
+msgid "Here you can choose the category you would like to display in the Recent Blog Posts Section on the homepage. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:336 epanel/options_feather.php:340
+msgid "Recent Blog Posts Section description"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:343 epanel/options_feather.php:347
+msgid "Recent Work Section description"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:350
+msgid "Number of Posts in Recent Work Section"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:355
+msgid "Here you can designate how many recent articles are displayed in Media bar on the homepage. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:358
+msgid "Exclude categories from Recent Work Section"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:362
+msgid "If you would like to exlcude certain category from the list you can do so here. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:366
+msgid "Number of Recent Posts displayed on homepage ( in Blog style mode )"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:371
+msgid "Here you can designate how many recent articles are displayed on the homepage. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:374
+msgid "Exclude categories from homepage recent posts ( in Blog style mode )"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:378
+msgid "By default the homepage displays a list of all of your most recent posts. However, if you would like to exlcude certain category from the list you can do so here. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:388
+msgid "Display Featured Slider"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:392
+msgid "You can choose whether or not to display the Featured Articles section on the homepge. If you don't want to utilize this feature simply disable this option."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:395
+msgid "Duplicate Featured Articles"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:399
+msgid "In some cases your Featured Articles will also be one of your most recent articles, in which case the article will be displayed twice on the homepage. If you would like to remove duplicate posts enable this option."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:404
+msgid "Featured Category"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:409
+msgid "Here you can choose which category to be used to populate the Featured Slider on the homepage. This only applies if you have disabled the Use Pages options below."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:412
+msgid "Number of Featured Slides"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:417
+msgid "This setting controls how menu tabs are added to the Featured Articles slider on the homepage."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:420
+msgid "Use pages"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:424
+msgid "The homepage Featured Slider can be set up using two methods. You can populate the slider using Posts, or you can populate it using Pages. If you would like to use Pages in the Featured Slider then enable this option."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:429
+msgid "Include pages in the Featured Slider (if Use Pages enabled)"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:433
+msgid "If you selected Use Pages above, then use the checkboxes below to choose which pages are displayed in the Featured Slider."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:438
+msgid "Automatic Slider Animation"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:442
+msgid "If you would like the Featured Articles slider to slide automatically, without the visitor having to click the next button, enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:447
+msgid "Automatic Animation Speed (in ms)"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:452
+msgid "Here you can designate how fast the slider fades between each article. The higher the number the longer the pause between each rotation."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:470 page-blog.php:46 page-contact.php:95
+#: page-full.php:32 page-search.php:39 page-search.php:49 page-sitemap.php:43
+#: single.php:29
+msgid "Pages"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:475 page-sitemap.php:48
+msgid "Categories"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:488
+msgid "Exclude pages from the navigation bar"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:492
+msgid "Here you can choose to remove certain pages from the navigation menu. All pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:496 epanel/options_feather.php:551
+msgid "Show dropdown menus"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:500
+msgid "If you would like to remove the dropdown menus from the pages navigation bar disable this feature."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:503
+msgid "Display Home link"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:507
+msgid "By default the theme creates a Home link that, when clicked, leads back to your blog's homepage. If, however, you are using a static homepage and have already created a page called Home to use, this will result in a duplicate link. In this case you should disable this feature to remove the link."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:512
+msgid "Sort Pages Links"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:516
+msgid "Here you can choose to sort your pages links."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:519
+msgid "Order Pages Links by Ascending/Descending"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:523
+msgid "Here you can choose to reverse the order that your pages links are displayed. You can choose between ascending and descending."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:526 epanel/options_feather.php:567
+msgid "Number of dropdown tiers shown"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:531 epanel/options_feather.php:572
+msgid "This options allows you to control how many teirs your pages dropdown menu has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:543
+msgid "Exclude categories from the navigation bar"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:547
+msgid "Here you can choose to remove certain categories from the navigation menu. All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:555
+msgid "If you would like to remove the dropdown menus from the categories navigation bar disable this feature."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:558
+msgid "Hide empty categories"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:562
+msgid "If you would like categories to be displayed in your navigationbar that don't have any posts in them then disable this option. By default empty categories are hidden"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:577
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:581
+msgid "By default pages are sorted by name. However if you would rather have them sorted by ID you can adjust this setting."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:584
+msgid "Order Category Links by Ascending/Descending"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:588
+msgid "Here you can choose to reverse the order that your categories links are displayed. You can choose between ascending and descending."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:597
+msgid "Disable top tier dropdown menu links"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:601
+msgid "In some cases users will want to create parent categories or links as placeholders to hold a list of child links or categories. In this case it is not desirable to have the parent links lead anywhere, but instead merely serve an organizational function. Enabling this options will remove the links from all parent pages/categories so that they don't lead anywhere when clicked."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:621
+msgid "Single Post Layout"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:626
+msgid "Single Page Layout"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:639
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:643
+msgid "Here you can choose which items appear in the postinfo section on single post pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:646
+msgid "Place Thumbs on Posts"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:650
+msgid "By default thumbnails are placed at the beginning of your post on single post pages. If you would like to remove this initial thumbnail image to avoid repetition simply disable this option. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:653
+msgid "Show comments on posts"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:657
+msgid "You can disable this option if you want to remove the comments and comment form from single post pages. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:668
+msgid "Place Thumbs on Pages"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:672
+msgid "By default thumbnails are not placed on pages (they are only used on posts). However, if you want to use thumbnails on posts you can! Just enable this option. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:675
+msgid "Show comments on pages"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:679
+msgid "By default comments are not placed on pages, however, if you would like to allow people to comment on your pages simply enable this option. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:690
+msgid "Post info section"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:694
+msgid "Here you can choose which items appear in the postinfo section on pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:699
+msgid "Show Thumbs on Index pages"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:703
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:731
+msgid "Color visualizer (this is not setting, just a tool to find hexdecimal values)"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:733
+msgid "This is a tool that can be used to find hexdecimal color values. These values can be used to customize the colors of the various elements below. This color picker will also appear which you click in any of the fields below. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:736
+msgid "Enable custom colors"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:740
+msgid "This option allows you to customize the color of a certain element of the theme. When you click in the field a color picker will appear. Scroll to find your desired color and then click the circular submit button on the lower right to accept the value."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:743
+msgid "Enable child stylesheet"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:747
+msgid "If you would like to add a second stylsheet to your blog enable this option and input the link to your stylesheet below."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:752
+msgid "Child stylesheet URL"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:757
+msgid "Input the URL to your child stylsheet here."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:760
+msgid "Main font color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:764 epanel/options_feather.php:771
+#: epanel/options_feather.php:778 epanel/options_feather.php:785
+#: epanel/options_feather.php:792 epanel/options_feather.php:799
+#: epanel/options_feather.php:806 epanel/options_feather.php:813
+msgid "This option allows you to customize the color of a certain element of the theme. When you click inside the field a color picker will appear. Scroll to find your desired color and then click the circular submit button on the lower right to accept the value"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:767
+msgid "Link color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:774
+msgid "Menu link color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:781
+msgid "Menu active link color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:788
+msgid "Headings color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:795
+msgid "Sidebar links color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:802
+msgid "Footer text color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:809
+msgid "Footer links color"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:830
+msgid "Homepage SEO"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:835
+msgid "Single Post Page SEO"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:840
+msgid "Index Page SEO"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:848
+msgid " Enable custom title "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:852
+msgid "By default the theme uses a combination of your blog name and your blog description, as defined when you created your blog, to create your homepage titles. However if you want to create a custom title then simply enable this option and fill in the custom title field below. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:855
+msgid " Enable meta description"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:859
+msgid "By default the theme uses your blog description, as defined when you created your blog, to fill in the meta description field. If you would like to use a different description then enable this option and fill in the custom description field below. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:862
+msgid " Enable meta keywords"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:866
+msgid "By default the theme does not add keywords to your header. Most search engines don't use keywords to rank your site anymore, but some people define them anyway just in case. If you want to add meta keywords to your header then enable this option and fill in the custom keywords field below. "
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:869 epanel/options_feather.php:1001
+msgid " Enable canonical URL's"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:873
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URLs all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treaded individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:878
+msgid "Homepage custom title (if enabled)"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:883
+msgid "If you have enabled custom titles you can add your custom title here. Whatever you type here will be placed between the < title >< /title > tags in header.php"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:886
+msgid "Homepage meta description (if enabled)"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:890
+msgid "If you have enabled meta descriptions you can add your custom description here."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:893
+msgid "Homepage meta keywords (if enabled)"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:898
+msgid "If you have enabled meta keywords you can add your custom keywords here. Keywords should be separated by comas. For example: wordpress,themes,templates,elegant"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:901 epanel/options_feather.php:979
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:906
+msgid "If you are not using cutsom post titles you can still have control over how your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:909 epanel/options_feather.php:987
+#: epanel/options_feather.php:1025
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:914 epanel/options_feather.php:992
+msgid "Here you can change which character separates your blog title and post name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:923
+msgid "Enable custom titles"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:927
+msgid "By default the theme creates post titles based on the title of your post and your blog name. If you would like to make your meta title different than your actual post title you can define a custom title for each post using custom fields. This option must be enabled for custom titles to work, and you must choose a custom field name for your title below."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:930
+msgid "Enable custom description"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:934
+msgid "If you would like to add a meta description to your post you can do so using custom fields. This option must be enabled for descriptions to be displayed on post pages. You can add your meta description using custom fields based off the custom field name you define below."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:939
+msgid "Enable custom keywords"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:943
+msgid "If you would like to add meta keywords to your post you can do so using custom fields. This option must be enabled for keywords to be displayed on post pages. You can add your meta keywords using custom fields based off the custom field name you define below."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:946
+msgid "Enable canonical URL's"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:950 epanel/options_feather.php:1005
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URL's all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treaded individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:955
+msgid "Custom field Name to be used for title"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:960
+msgid "When you define your title using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom title you would like to use."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:963
+msgid "Custom field Name to be used for description"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:968
+msgid "When you define your meta description using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom description you would like to use."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:971
+msgid "Custom field Name to be used for keywords"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:976
+msgid "When you define your keywords using custom fields you should use this value for the custom field Name. The Value of your custom field should be the meta keywords you would like to use, separated by comas."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:984
+msgid "If you are not using cutsom post titles you can still have control over hw your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1008
+msgid "Enable meta descriptions"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1012
+msgid "Check this box if you want to display meta descriptions on category/archive pages. The description is based off the category description you choose when creating/edit your category in wp-admin."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1017
+msgid "Choose title autogeneration method"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1022
+msgid "Here you can choose how your titles on index pages are generated. You can change which order your blog name and index title are displayed, or you can remove the blog name from the title completely."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1030 epanel/options_feather.php:1181
+#: epanel/options_feather.php:1189
+msgid "Here you can change which character separates your blog title and index page name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1050
+msgid "Code Integration"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1058
+msgid "Enable header code"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1062
+msgid "Disabling this option will remove the header code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1065
+msgid "Enable body code"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1069
+msgid "Disabling this option will remove the body code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1074
+msgid "Enable single top code"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1078
+msgid "Disabling this option will remove the single top code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1081
+msgid "Enable single bottom code"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1085
+msgid "Disabling this option will remove the single bottom code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1090
+msgid "Add code to the < head > of your blog"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1094
+msgid "Any code you place here will appear in the head section of every page of your blog. This is useful when you need to add javascript or css to all pages."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1097
+msgid "Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1101
+msgid "Any code you place here will appear in body section of all pages of your blog. This is usefull if you need to input a tracking pixel for a state counter such as Google Analytics."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1104
+msgid "Add code to the top of your posts"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1108 epanel/options_feather.php:1115
+msgid "Any code you place here will be placed at the top of all single posts. This is useful if you are looking to integrating things such as social bookmarking links."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1111
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1133
+msgid "Documentation"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1159
+msgid "Manage Un-widgetized Advertisements"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1167
+msgid "Enable 468x60 banner"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1171
+msgid "Enabling this option will display a 468x60 banner ad on the bottom of your post pages below the single post content. If enabled you must fill in the banner image and destination url below."
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1176
+msgid "Input 468x60 advertisement banner image"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1184
+msgid "Input 468x60 advertisement destination url"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1192
+msgid "Input 468x60 adsense code"
+msgstr ""
+
+# @ Feather
+#: epanel/options_feather.php:1196
+msgid "Place your adsense code here."
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:22
+msgid "Captcha"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:22
+msgid "Fill"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:22
+msgid "field"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:22
+msgid "Invalid email"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:37
+msgid "ET Page Template Settings"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:64
+msgid "Additional settings appear here, when one of ET page templates is selected ( Page Attributes -> Template )"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:69
+msgid "Full Width Page"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:74
+msgid "Regenerate captcha numbers"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:78
+msgid "Email To:"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:84
+msgid "Blog Style mode"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:89
+msgid "Hide Auto Thumbnail"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:94
+msgid "Show Titles"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:99
+msgid "Show Descriptions"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:104
+msgid "Detect Portrait Images"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:108
+msgid "Thumbnail Size:"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:109
+msgid "Small"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:110
+msgid "Medium"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:111
+msgid "Large"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:115
+#: epanel/page_templates/page_templates.php:120
+msgid "Number of posts per page:"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:125
+msgid "Select blog categories:"
+msgstr ""
+
+# @ Feather
+#: epanel/page_templates/page_templates.php:144
+msgid "Select gallery categories:"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:15 home.php:127 includes/featured.php:120
+msgid "Previous"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:15 home.php:128 includes/featured.php:121
+msgid "Next"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:302
+msgid "Member Login"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:305
+msgid "Username: "
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:306
+msgid "Password: "
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:307
+msgid "Login"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:343
+msgid "Add a Tooltip Text"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:365
+msgid "Click here to learn more"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:973
+msgid "Caption"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:974
+msgid "Caption goes here"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:975
+msgid "Caption title goes here"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:979
+msgid "State"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:981
+msgid "Select between expanded and closed state"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:986 epanel/shortcodes/shortcodes.php:1002
+#: epanel/shortcodes/shortcodes.php:1031 epanel/shortcodes/shortcodes.php:1111
+msgid "Content"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:987 epanel/shortcodes/shortcodes.php:1003
+#: epanel/shortcodes/shortcodes.php:1089 epanel/shortcodes/shortcodes.php:1112
+msgid "Content goes here"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:988 epanel/shortcodes/shortcodes.php:1004
+#: epanel/shortcodes/shortcodes.php:1033
+msgid "Content text or html"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:995 epanel/shortcodes/shortcodes.php:1017
+msgid "Type"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:997
+msgid "Type of the box"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1011
+msgid "Link"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1013
+msgid "URL"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1019
+msgid "Choose button type"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1024
+msgid "Color"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1026
+msgid "Choose button color"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1032
+msgid "Link text"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1037
+msgid "Icon"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1039
+msgid "Used for icon button type"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1044
+msgid "Open link in new window"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1046
+msgid "Select yes if the link should be opened in a new window"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1054
+msgid "Slider Type"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1056
+msgid "Select Slider Type here"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1061
+msgid "Effect"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1063
+msgid "Select Animation Effect"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1068
+msgid "Auto"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1070
+msgid "Choose yes if you want for automatic slider animation"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1075
+msgid "Auto Speed"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1077
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1081
+msgid "Tab Text"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1088
+msgid "Tab Content"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1090
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1098
+msgid "Image Url"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1100
+msgid "Author Image URL"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1104
+msgid "Use resizing"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1181
+msgid "+ Add One More Tab"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1331
+msgid "Image Height"
+msgstr ""
+
+# @ Feather
+#: epanel/shortcodes/shortcodes.php:1332
+msgid "Image Width"
+msgstr ""
+
+# @ Feather
+#: footer.php:20
+#, php-format
+msgid "Designed by %s | Powered by %s"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Thin Vertical Lines"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Small Squares"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Thick Diagonal Lines"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Thin Diagonal Lines"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Diamonds"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Small Circles"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Thick Vertical Lines"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Thin Flourish"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Thick Flourish"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Pocodot"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Checkerboard"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Squares"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Noise"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Wooden"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Stone"
+msgstr ""
+
+# @ Feather
+#: functions.php:11
+msgid "Canvas"
+msgstr ""
+
+# @ Feather
+#: functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+# @ Feather
+#: functions.php:49
+msgid "Footer Menu"
+msgstr ""
+
+# @ Feather
+#: functions.php:124
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+# @ Feather
+#: functions.php:135 page-blog.php:61
+msgid "Posted"
+msgstr ""
+
+# @ Feather
+#: functions.php:138 page-blog.php:61
+msgid "by"
+msgstr ""
+
+# @ Feather
+#: functions.php:141 page-blog.php:61
+msgid "on"
+msgstr ""
+
+# @ Feather
+#: functions.php:144 page-blog.php:61
+msgid "in"
+msgstr ""
+
+# @ Feather
+#: functions.php:163
+msgid "% Comments"
+msgstr ""
+
+# @ Feather
+#: functions.php:167
+msgid "1 Comment"
+msgstr ""
+
+# @ Feather
+#: functions.php:220
+msgid "Example Colors"
+msgstr ""
+
+# @ Feather
+#: functions.php:230 functions.php:241
+msgid "or define your own in ePanel"
+msgstr ""
+
+# @ Feather
+#: functions.php:232
+msgid "Texture Overlays"
+msgstr ""
+
+# @ Feather
+#: functions.php:251
+msgid "Fonts"
+msgstr ""
+
+# @ Feather
+#: functions.php:254
+msgid "Header"
+msgstr ""
+
+# @ Feather
+#: functions.php:265
+msgid "Body"
+msgstr ""
+
+# @ Feather
+#: home.php:47
+msgid "Recent Blog Posts"
+msgstr ""
+
+# @ Feather
+#: home.php:67 home.php:113
+msgid "More"
+msgstr ""
+
+# @ Feather
+#: home.php:76
+msgid "Recent Work"
+msgstr ""
+
+# @ Feather
+#: home.php:112 page-gallery.php:66 page-template-portfolio.php:125
+msgid "Zoom in"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:31
+#, php-format
+msgid "This %s is Featured"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:36
+msgid "Featured Slider:"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:38
+msgid "Image/Video on the left"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:39
+msgid "Png Image on the left"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:40
+msgid "Image/Video on the right"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:41
+msgid "Description Only"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:42
+msgid "Full Width Image"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:48
+msgid "Video url:"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:55
+msgid "Video Embed Code:"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:59
+msgid "Paste embed code if video link cannot be used"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:63
+msgid "Custom Title:"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:70
+msgid "Description Text:"
+msgstr ""
+
+# @ Feather
+#: includes/additional_functions.php:77
+msgid "Custom Link:"
+msgstr ""
+
+# @ Feather
+#: includes/breadcrumbs.php:7
+msgid "Posts Tagged "
+msgstr ""
+
+# @ Feather
+#: includes/breadcrumbs.php:9 includes/breadcrumbs.php:11
+#: includes/breadcrumbs.php:13 includes/top_info.php:8
+#: includes/top_info.php:10 includes/top_info.php:12
+msgid "Posts made in"
+msgstr ""
+
+# @ Feather
+#: includes/breadcrumbs.php:15 includes/top_info.php:14
+msgid "Search results for"
+msgstr ""
+
+# @ Feather
+#: includes/breadcrumbs.php:24 includes/top_info.php:21
+msgid "Posts by "
+msgstr ""
+
+# @ Feather
+#: includes/entry.php:25
+msgid "Read More"
+msgstr "La suite"
+
+# @ twentyten
+#. translators: 1: date, 2: time
+#: includes/functions/comments.php:18
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ Feather
+#: includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr ""
+
+# @ Feather
+#: includes/functions/comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ Feather
+#: includes/functions/comments.php:29
+msgid "Reply"
+msgstr ""
+
+# @ Feather
+#: includes/functions/installation.php:1
+msgid "Read Feather Documentation"
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:1
+msgid "1. First, have you read the readme documentation that came with your theme?"
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:2
+msgid ""
+"Each theme comes with a readme file that includes detailed installation instructions. Before continuing, please make sure that you have read through this file and followed each step correctly. You can view the readme files online at the following locations:\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bluesky/readme.html\">Bluesky</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bluemist/readme.html\">BlueMist</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/simplism/readme.html\">Simplism</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/quadro/readme.html\">Quadro</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/earthlytouch/readme.html\">EarthlyTouch</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/artsee/readme.html\">ArtSee</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/tidalforce/readme.html\">TidalForce</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/wooden/readme.html\">Wooden</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/interphase/readme.html\">InterPhase</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/whoswho/readme.html\">Who'sWho</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/studioblue/readme.html\">StudioBlue</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/influx/readme.html\">Influx</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/grungemag/readme.html\">GrungeMag</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/egallery/readme.html\">eGallery</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/cion/readme.html\">Cion</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/evid/readme.html\">eVid</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/egamer/readme.html\">eGamer</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/lightsource/readme.html\">LightSource</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/coldstone/readme.html\">ColdStone</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/basic/readme.html\">Basic</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/puretype/readme.html\">PureType</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/cherrytruffle/readme.html\">CherryTruffle</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/ebusiness/readme.html\">eBusiness</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/ephoto/readme.html\">ePhoto</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bold/readme.html\">Bold</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/enews/readme.html\">eNews</a>"
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:31
+msgid "2. Have you watched the video tutorials?"
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:32
+msgid "Many of the common issues that occur have already been covered in the video tutorials section of the members area. To access the video tutorials page <a href=\"http://www.elegantthemes.com/members-area/tutorials\">log in here</a>."
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:35
+msgid "3. Do you have plugins active that did not come with the theme?"
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:36
+msgid "If you are using additional plugins that did not come with the theme it is possible that one of them is interfering with the design. Unfortunately it is impossible to predict what will happen when unknown code is place into my themes, so it is always important, if you are experiencing problems, to disable all of the plugins that did not come with the theme to see if they are at fault. Try disabling each plugin one by one to find the culprit."
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:38
+msgid "4. Have you uploaded the correct theme folder to the correct theme directory?"
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:39
+msgid ""
+"When you download one of my themes and unzip it you will see a few different folders. Photoshop Files, Plugins, Theme, and, with select themes, Fonts. The &quot;theme folder&quot; that you need to upload to your server is located within the Theme folder in your ZIP file. You need to upload this folder to the correct folder on your server (wp-content/themes/). Do not upload the &quot;Theme&quot; folder, only upload the folder within the &quot;Theme&quot; folder. For example, if you are using my Studioblue theme you would want to upload the &quot;StudioBlue&quot; folder contained within the &quot;Theme&quot; folder to wp-content/themes. Do not upload StudioBlue's parent folder. Furthermore, make sure that you do not rename the &quot;StudioBlue&quot; folder.\n"
+"For more information you can also refer to this detailed video tutorial: <a href=\"http://www.elegantthemes.com/members-area/tutorials/uploading.php\">Installing a Theme</a>."
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:43
+msgid "5. Are you using the latest version of Wordpress?"
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:44
+msgid "Wordpress is constantly changing, it is always best to keep your Wordpress install up-to-date. Using an out-dated version may lead to unknown problems."
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:46
+msgid "6. Have you made any customizations to the theme?"
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:47
+msgid "Before contacting me about theme problems make sure customizations you made are not the cause of the problem. If you have made edits to the theme files, try uploading a fresh version of the theme and compare the two."
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:49
+msgid "7. Are you having trouble getting your thumbnails to appear?"
+msgstr ""
+
+# @ Feather
+#: includes/functions/troubleshooting.php:50
+msgid "There are several different things that could lead to thumbnail troubles. For more information please read the following guide: <a href=\"http://www.elegantthemes.com/troubleshooting-timthumb.html\">Troubleshooting Timthumb</a>."
+msgstr ""
+
+# @ Feather
+#: includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr ""
+
+# @ Feather
+#: includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "Entrées plus anciennes"
+
+# @ Feather
+#: includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Prochaines entrées &raquo;"
+
+# @ Feather
+#: includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Aucun résultat trouvé"
+
+# @ Feather
+#: includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "La page recherchée ne peut être trouvée. Essayez d'affiner votre recherche ou utilisez la navigation ci dessus..."
+
+# @ Feather
+#: includes/postinfo.php:2 includes/postinfo.php:8 page-blog.php:61
+msgid "0 comments"
+msgstr "0 commentaire"
+
+# @ Feather
+#: includes/postinfo.php:2 includes/postinfo.php:8 page-blog.php:61
+msgid "1 comment"
+msgstr "1 commentaire"
+
+# @ Feather
+#: includes/postinfo.php:2 includes/postinfo.php:8 page-blog.php:61
+msgid "comments"
+msgstr "commentaires"
+
+# @ Feather
+#: includes/top_info.php:6
+msgid "Posts Tagged &quot;"
+msgstr "Article taggés"
+
+# @ Feather
+#: includes/widgets/widget-search.php:15
+msgid "Search this site..."
+msgstr "Rechercher..."
+
+# @ Feather
+#: page-blog.php:81
+msgid "read more"
+msgstr "lire la suite"
+
+# @ Feather
+#: page-blog.php:104 page-contact.php:150 page-full.php:33 page-gallery.php:84
+#: page-login.php:57 page-search.php:85 page-sitemap.php:76
+#: page-template-portfolio.php:173 page.php:28 single.php:30
+msgid "Edit this page"
+msgstr "Modifier cette page"
+
+# @ Feather
+#: page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr "Assurez vous de renseigner le captcha."
+
+# @ Feather
+#: page-contact.php:22
+msgid "Numbers regenerated."
+msgstr "Chiffres régénérés."
+
+# @ Feather
+#: page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr "Vous avez entré un mauvais chiffre dans la captcha."
+
+# @ Feather
+#: page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr "Assurez vous de remplir tous les champs."
+
+# @ Feather
+#: page-contact.php:37
+msgid "Invalid Email. "
+msgstr "Adresse Email invalide"
+
+# @ Feather
+#: page-contact.php:65
+msgid "Thanks for contacting us"
+msgstr "Merci de nous avoir contacté."
+
+# @ Feather
+#: page-contact.php:105 page-contact.php:106
+msgid "Name"
+msgstr "Nom"
+
+# @ Feather
+#: page-contact.php:110 page-contact.php:111
+msgid "Email Address"
+msgstr "Adresse Mail"
+
+# @ Feather
+#: page-contact.php:115 page-contact.php:116
+msgid "Subject"
+msgstr "Sujet"
+
+# @ Feather
+#: page-contact.php:123
+msgid "Captcha: "
+msgstr "Captcha:"
+
+# @ Feather
+#: page-contact.php:134 page-contact.php:135
+msgid "Message"
+msgstr ""
+
+# @ Feather
+#: page-contact.php:141 page-search.php:77
+msgid "Submit"
+msgstr "Envoyer"
+
+# @ Feather
+#: page-gallery.php:42 page-login.php:39 page-sitemap.php:39
+#: page-template-portfolio.php:51 page.php:27
+msgid "Pages:"
+msgstr "Pages:"
+
+# @ Feather
+#: page-gallery.php:67 page-template-portfolio.php:126
+msgid "Read more"
+msgstr "Lire la suite"
+
+# @ Feather
+#: page-login.php:47
+msgid "Username"
+msgstr "identifiant"
+
+# @ Feather
+#: page-login.php:48
+msgid "Password"
+msgstr "Mot de passe"
+
+# @ Feather
+#: page-search.php:43
+msgid "search this website"
+msgstr "Rechercher sur ce site"
+
+# @ Feather
+#: page-search.php:46
+msgid "search this site..."
+msgstr "recherche..."
+
+# @ Feather
+#: page-search.php:48
+msgid "Posts"
+msgstr "Articles"
+
+# @ Feather
+#: page-search.php:52
+msgid "Select a month"
+msgstr "Sélectionnez un mois"
+
+# @ Feather
+#: page-sitemap.php:53
+msgid "Tags"
+msgstr "Mots-clefs"
+
+# @ Feather
+#: page-sitemap.php:69
+msgid "Authors"
+msgstr "Auteurs"
+
+# @ Feather
+#: searchform.php:4
+msgid "Search"
+msgstr "Recherche"

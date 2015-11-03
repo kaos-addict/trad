@@ -1,0 +1,616 @@
+# Copyright (C) YEAR Lorenzo Porta
+# This file is distributed under the same license as the KFolderSync package.
+#
+# Translators:
+# MerMouY <mermouy@openmailbox.org>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: KFolderSync\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2015-10-27 14:54+0100\n"
+"PO-Revision-Date: 2015-10-30 02:25+0100\n"
+"Last-Translator: MerMouY <mermouy@openmailbox.org>\n"
+"Language-Team: French <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/datacentre.cpp:33
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<warning>I can't create a log file... Check your permissions</warning>"
+msgstr ""
+"<warning>Impossible de créer du fichier de log... Vérifiez vos droits<"
+"/warning>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/detailedprogressdialog.cpp:36
+#, kde-format
+msgctxt "@label"
+msgid "CURRENT PROGRESS:"
+msgstr "AVANCEMENT ACTUEL:"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/detailedprogressdialog.cpp:37
+#, kde-format
+msgctxt "@label"
+msgid "TOTAL PROGRESS:"
+msgstr "PROGRESSION TOTALE:"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/detailedprogressdialog.cpp:62
+#: /home/lorenzo/KFolderSync/kfoldersync/src/detailedprogressdialog.cpp:63
+#, kde-format
+msgctxt "@label"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/detailedprogressdialog.cpp:69
+#, kde-format
+msgctxt "@label speed"
+msgid "%1 ( @ %2/s )"
+msgstr "%1 ( @ %2/s )"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/engine.cpp:128
+#, kde-format
+msgctxt "@item folder name"
+msgid "Old files - %1"
+msgstr "Anciens fichiers - %1"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/engine.cpp:168
+#, kde-kuit-format
+msgctxt "@item folder name"
+msgid "Full backup of <filename>%1</filename> - %2"
+msgstr "Sauvegarde complète de <filename>%1</filename> - %2"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/engine.cpp:206
+#, kde-format
+msgctxt "@item file name"
+msgid "%1 (version %2)"
+msgstr "%1 (version %2)"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/engine.cpp:377
+#, kde-format
+msgctxt "@item:intext"
+msgid "Operation aborted by the user..."
+msgstr "Opération interrompue par l'utilisateur..."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/engine.cpp:387
+#, kde-format
+msgctxt "@item:intext"
+msgid "...done!"
+msgstr "...fait!"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:42
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Compare"
+msgstr "Comparer"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:45
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Reset application"
+msgstr "Réinitialiser l'application"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:48
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Run"
+msgstr "Lancer "
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:63
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<warning>you must first select all the directories!</warning>"
+msgstr ""
+"<warning>vous devez au préalable sélectionner tous les dossiers!</warning>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:74
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<warning>2 identical destination directories "
+"detected!</warning><nl/><nl/><note>performing multiple synchronizations with"
+" the same destination directory<nl/>isn't very reasonable, because only the "
+"last one will show its effects.<nl/>That said, you can choose another "
+"operation type or another destination directory.</note>"
+msgstr ""
+"<warning>2 dossiers de destination identique ont été "
+"détectés  !</warning><nl/><nl/><note>lancer plusieurs synchronisations vers "
+"le même répertoire de destination<nl/>n'est pas judicieux, parce que seul le "
+"dernier obtiendra l'effet escompté.</nl>Ceci étant dit, vous pouvez "
+"maintenant choisir "
+"une autre opération ou un autre répertoire de destination.</note>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:87
+#, kde-format
+msgctxt "@info:progress"
+msgid "Comparing... please wait."
+msgstr "Comparaison en cours... Veuillez patienter."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:90
+#, kde-kuit-format
+msgctxt "@info:progress"
+msgid "<note>network folders may require several time</note>"
+msgstr "<note>les répertoires distant peuvent exiger plus de temps</note>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:145
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<warning><application>%1</application> is going to be reset.</warning> Do "
+"you really want to proceed?"
+msgstr ""
+"<warning><application>%1</application> va être ré-initialisée.</warning> "
+"Êtes vous certain de vouloir continuer?"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:166
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<warning>you can't begin without first making a comparison!</warning>"
+msgstr "<warning>vous ne pouvez commencer sans avoir comparer!</warning>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:170
+#, kde-format
+msgctxt "@info:status"
+msgid "There's nothing to do..."
+msgstr "Rien n'a faire..."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:181
+#, kde-format
+msgctxt "@item:intext"
+msgid "bilateral incremental backup"
+msgstr "sauvegarde incrémentale bilatérale"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:189
+#, kde-format
+msgctxt "@item:intext"
+msgid "bilateral synchronization"
+msgstr "synchronisation bilatérale"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:197
+#, kde-format
+msgctxt "@item:intext"
+msgid "differential backup"
+msgstr "sauvegarde différentielle"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:205
+#, kde-format
+msgctxt "@item:intext"
+msgid "full backup"
+msgstr "sauvegarde complète"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:213
+#, kde-format
+msgctxt "@item:intext"
+msgid "incremental backup"
+msgstr "sauvegarde incrémentale"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:217
+#, kde-format
+msgctxt "@item"
+msgid "Old files - %1"
+msgstr "Anciens fichiers - %1"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:227
+#, kde-format
+msgctxt "@item:intext"
+msgid "synchronization"
+msgstr "synchronisation"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:243
+#, kde-format
+msgctxt "@info:status"
+msgid "Mission accomplished!"
+msgstr "Mission accomplie!"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersync.cpp:244
+#, kde-format
+msgctxt "@info:status"
+msgid "Would you like to update the comparison results?"
+msgstr "Voulez vous mettre à jour les résultats comparés?"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/logger.cpp:47
+#, kde-kuit-format
+msgctxt "@item:intext"
+msgid "%1 > Copying <filename>%2</filename> to <filename>%3</filename>"
+msgstr "%1 > Copie de <filename>%2</filename> vers <filename>%3</filename>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/logger.cpp:55
+#, kde-kuit-format
+msgctxt "@item:intext"
+msgid "%1 > Deleting <filename>%2</filename>"
+msgstr "%1 > Effacement de <filename>%2</filename>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/logger.cpp:71
+#: /home/lorenzo/KFolderSync/kfoldersync/src/logger.cpp:85
+#, kde-format
+msgctxt "@item:intext"
+msgid "%1 > %2"
+msgstr "%1 > %2"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/logger.cpp:77
+#, kde-kuit-format
+msgctxt "@item:intext"
+msgid "%1 > Moving old <filename>%2</filename> to <filename>%3</filename>"
+msgstr ""
+"%1 > Déplacement de <filename>%2</filename> vers <filename>%3</filename>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/logger.cpp:91
+#, kde-kuit-format
+msgctxt "@item:intext"
+msgid "%1 > Making <filename>%2</filename>"
+msgstr "%1 > Création de <filename>%2</filename>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/logger.cpp:97
+#, kde-kuit-format
+msgctxt "@item:intext"
+msgid "%1 > Overwriting <filename>%2</filename>"
+msgstr "%1 > Écrasement de <filename>%2</filename>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/logger.cpp:104
+#, kde-kuit-format
+msgctxt "@item:intext"
+msgid ""
+"%1 > Starting the %2... [source: <filename>%3</filename> | destination: "
+"<filename>%4</filename>]"
+msgstr ""
+"%1 > Démarrage de %2... [source: <filename>%3</filename> | destination: "
+"<filename>%4</filename>]"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/logger.cpp:115
+#, kde-kuit-format
+msgctxt "@item:intext"
+msgid "%1 > Moving <filename>%2</filename> to trash"
+msgstr "%1 > Déplacement de <filename>%2</filename> à la corbeille"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/main.cpp:39
+#, kde-format
+msgid "KFolderSync"
+msgstr "KFolderSync"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/main.cpp:41
+#, kde-format
+msgid "Folder synchronization and backup tool"
+msgstr "Outil de synchronisation et de sauvegarde"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/main.cpp:44
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Translations at: "
+"<link>https://www.transifex.com/projects/p/kfoldersync/</link>"
+msgstr ""
+"Traductions: "
+"<link>https://www.transifex.com/projects/p/kfoldersync/</link>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/main.cpp:47
+#, kde-format
+msgctxt "@info:credit"
+msgid "Author"
+msgstr "Auteur"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/main.cpp:51
+#, kde-format
+msgctxt "@info:credit"
+msgid "Ideas for the application icon"
+msgstr "Idées pour l'icône de l'application"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/main.cpp:62
+#, kde-format
+msgctxt "@info:credit NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "MerMouY"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/main.cpp:62
+#, kde-format
+msgctxt "@info:credit EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mermouy@openmailbox.org"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/main.cpp:74
+#, kde-kuit-format
+msgctxt "@info:tipoftheday"
+msgid ""
+"<warning>It's strongly recommended not to run <application>%1</application> "
+"as super user (root).</warning><nl/><nl/>Are you absolutely sure of what you"
+" are doing?"
+msgstr ""
+"<warning>Il est fortement recommandé de ne pas lancer <application>%1<"
+"/application> "
+"en administrateur (root).</warning><nl/><nl/>Voulez vous vraiment faire cela?"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/urlrequester.cpp:96
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<warning>a folder can't be the source and the destination at the same "
+"time!</warning>"
+msgstr ""
+"<warning>un répertoire ne peut être à la fois la source et la destination!<"
+"/warning>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/urlrequester.cpp:102
+#: /home/lorenzo/KFolderSync/kfoldersync/src/urlrequester.cpp:110
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<warning><filename>%1</filename> is parent of "
+"<filename>%2</filename>!</warning><nl/><nl/><note>operations between related"
+" directories may open Pandora's box...</note>"
+msgstr ""
+"<warning><filename>%1</filename> est le parent de "
+"<filename>%2</filename>!</warning><nl/><nl/><note>des opération sur des "
+"répertoires "
+"reliés pourraient ouvrir la boîte de Pandore...</note>"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/urlrequester.cpp:122
+#, kde-format
+msgctxt "@title:window"
+msgid "Select a directory"
+msgstr "Sélectionnez un  répertoire "
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:42
+#, kde-format
+msgctxt "@title:column"
+msgid "Source directories"
+msgstr "Répertoire source"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:49
+#, kde-format
+msgctxt "@title:column"
+msgid "Destination directories"
+msgstr "Répertoire de destination"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:59
+#, kde-format
+msgctxt "@title:group"
+msgid "Operation type"
+msgstr "Type d'opération"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:60
+#, kde-format
+msgctxt "@option:radio"
+msgid "Bilateral incremental backup"
+msgstr "Sauvegarde incrémentale bilatérale"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:63
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Source directories and their respective destinations supplement each other "
+"with missing files.\n"
+"If conflicts are detected, old files will be backed up before the new ones "
+"take their place."
+msgstr ""
+"Les répertoires source et leur destinations respectives se complètent avec "
+"les fichiers manquants.\n"
+"Si des conflits sont détectés, les anciens fichiers seront sauvegardés avant "
+"que les nouveaux ne les remplacent."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:66
+#, kde-format
+msgctxt "@option:radio"
+msgid "Bilateral synchronization"
+msgstr "Synchronisation bilatérale"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:69
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Source directories and their respective destinations supplement each other "
+"with missing files.\n"
+"If conflicts are detected, only the ones with the latest modification time "
+"will be kept."
+msgstr ""
+"Les répertoires source et leur destinations respectives se complètent avec "
+"les fichiers manquants.\n"
+"Si des conflits sont détectés, seuls les plus récents seront conservés."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:72
+#, kde-format
+msgctxt "@option:radio"
+msgid "Differential backup"
+msgstr "Sauvegarde différentielle"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:74
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Delete nothing and overwrite old files."
+msgstr "Ne rien effacer et écraser les anciens fichiers."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:76
+#, kde-format
+msgctxt "@option:radio"
+msgid "Full backup"
+msgstr "Sauvegarde complète."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:78
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Entirely backup source directories in their respective destinations."
+msgstr ""
+"Sauvegarder complète de tous les répertoires source dans leurs destination "
+"respectives."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:80
+#, kde-format
+msgctxt "@option:radio"
+msgid "Incremental backup"
+msgstr "Sauvegarde incrémentale"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:82
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Delete nothing and backup old files instead of overwriting them."
+msgstr ""
+"Ne rien effacer et sauvegarder les anciens fichiers au lieu de les écraser."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:84
+#, kde-format
+msgctxt "@option:radio"
+msgid "Synchronization"
+msgstr "Synchronisation"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:87
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Make destination directories identical to their respective sources."
+msgstr ""
+"Créer les répertoires de destination identiques à leur sources respectives."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:101
+#, kde-format
+msgctxt "@title"
+msgid "COMPARISON RESULTS"
+msgstr "RÉSULTATS DE LA COMPARAISON"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:109
+#, kde-format
+msgctxt "@label"
+msgid "Directories to be made: "
+msgstr "Répertoires à créer:"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:112
+#, kde-format
+msgctxt "@label"
+msgid "Directories to be entirely deleted: "
+msgstr "Répertoires à effacer complètement:"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:115
+#, kde-format
+msgctxt "@label"
+msgid "Files to be copied: "
+msgstr "Fichiers à copier:"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:118
+#, kde-format
+msgctxt "@label"
+msgid "Files to be deleted: "
+msgstr "Fichiers à effacer:"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:121
+#, kde-format
+msgctxt "@label"
+msgid "Old files to be backed up:"
+msgstr "Anciens fichiers à sauvegarder:"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:124
+#, kde-format
+msgctxt "@label"
+msgid "Files to be overwritten: "
+msgstr "Fichiers à écraser: "
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:127
+#, kde-format
+msgctxt "@label"
+msgid "Additional space required: "
+msgstr "Espace supplémentaire requis:"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:129
+#, kde-format
+msgctxt "@label"
+msgid "Space to be freed: "
+msgstr "Espace à libérer: "
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:131
+#, kde-format
+msgctxt "@label"
+msgid "Net change in data size: "
+msgstr "Différence taille: "
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:163
+#, kde-format
+msgctxt "@title:group"
+msgid "FILES TO BE EXCLUDED"
+msgstr "FICHIERS À EXCLURE"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:176
+#, kde-format
+msgid "Type something to filter the list..."
+msgstr "Entrez quelque chose pour filtrer la liste..."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:187
+#, kde-format
+msgctxt "@title:group"
+msgid "Additional options"
+msgstr "Options additionnelles"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:188
+#, kde-format
+msgctxt "@option:check"
+msgid "Ignore errors"
+msgstr "Ignorer les erreurs"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:190
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Don't stop if errors occur."
+msgstr "Ne pas interrompre en cas d'erreurs."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:193
+#, kde-format
+msgctxt "@option:check"
+msgid "Include hidden files"
+msgstr "Inclure les fichiers cachés"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:196
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Include hidden files and directories too."
+msgstr "Inclure les fichiers et dossiers cachés."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:199
+#, kde-format
+msgctxt "@option:check"
+msgid "Create log in my home directory"
+msgstr "Créer le fichier de log dans mon répertoire personnel"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:203
+#, kde-format
+msgctxt "@option:check"
+msgid "Use the trash"
+msgstr "Utiliser la corbeille"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:206
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Move files and directories to trash instead of deleting them, whenever it "
+"can be done."
+msgstr ""
+"Déplacer les fichiers et les dossiers à la corbeille au lieu de les effacer "
+"si possible."
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:289
+#, kde-format
+msgctxt "@label negative number"
+msgid "- %1"
+msgstr "- %1"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:318
+#, kde-format
+msgctxt "@label"
+msgid "%1 / %2"
+msgstr "%1 / %2"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:321
+#, kde-format
+msgctxt "@label"
+msgid "N/A"
+msgstr "N/A"
+
+#: /home/lorenzo/KFolderSync/kfoldersync/src/widgetmanager.cpp:329
+#, kde-format
+msgctxt "@title:window"
+msgid "Select one or more files"
+msgstr "Sélectionnez un ou plusieurs fichiers"
+
+#. i18n: file: /home/lorenzo/KFolderSync/kfoldersync/src/kfoldersyncui.rc:16
+#. i18n: ectx: ToolBar (mainToolBar)
+#: rc.cpp:3
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Barre d'outils principale"
+

@@ -1,0 +1,1875 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vertex 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 21:32+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: MerMouY <mermouy@openmailbox.org>\n"
+"Language-Team: MerMouY\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+#, fuzzy
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Cet article est protégé par un mot de passe. Entrez votre mot de passe pour voir les commentaires."
+
+#: ../comments.php:13
+#, fuzzy
+msgid "0 Comments"
+msgstr "0 Commentaire"
+
+#: ../comments.php:13
+#: ../functions.php:194
+#, fuzzy
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: ../comments.php:13
+#, fuzzy
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../comments.php:18
+#: ../comments.php:31
+#, fuzzy
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Commentaires plus anciens"
+
+#: ../comments.php:19
+#: ../comments.php:32
+#, fuzzy
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Commentaires plus récents<span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:38
+#, fuzzy
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:56
+#, fuzzy
+msgid "Submit Comment"
+msgstr "Envoyer le commentaire"
+
+#: ../comments.php:56
+#, fuzzy
+msgid "Submit a Comment"
+msgstr "Envoyer le commentaire"
+
+#: ../comments.php:56
+#, fuzzy, php-format
+msgid "Leave a Reply to %s"
+msgstr "Répondre à %s"
+
+#: ../footer.php:17
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Dessiné par %1$s | Propulsé par %2$s"
+
+#: ../front-page.php:22
+msgid "Our Recent Client Projects"
+msgstr ""
+
+#: ../front-page.php:23
+msgid "Take a look at some of the most recent work that our team has created."
+msgstr ""
+
+#: ../front-page.php:43
+msgid "Advanced Online Solutions"
+msgstr ""
+
+#: ../front-page.php:44
+msgid "Our service comes packed to the brim with tons of amazing features."
+msgstr ""
+
+#: ../front-page.php:66
+msgid "What Our Customers Are Saying"
+msgstr ""
+
+#: ../front-page.php:67
+msgid "Don't just take our word for it, take a look at what our customers have to say."
+msgstr ""
+
+#: ../front-page.php:125
+msgid "Meet Our Amazing Team"
+msgstr ""
+
+#: ../front-page.php:126
+msgid "Our products are built with the hard work of our amazing team."
+msgstr ""
+
+#: ../functions.php:30
+#, fuzzy
+msgid "Primary Menu"
+msgstr "Menu primaire"
+
+#: ../functions.php:48
+#: ../functions.php:54
+#: ../functions.php:210
+#: ../page-blog.php:47
+msgid "on"
+msgstr "le"
+
+#: ../functions.php:105
+#: ../functions.php:125
+msgid "Navigation Menu"
+msgstr "Menu de Navigation"
+
+#: ../functions.php:125
+msgid "Menu"
+msgstr "Menu"
+
+#: ../functions.php:173
+#, php-format
+msgid "Posts by %s"
+msgstr "Artciles par %s"
+
+#: ../functions.php:190
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: ../functions.php:192
+msgid "No Comments"
+msgstr "Aucun commentaire"
+
+#: ../functions.php:207
+msgid "By"
+msgstr "par"
+
+#: ../functions.php:213
+#: ../page-blog.php:47
+msgid "in"
+msgstr "dans"
+
+#: ../functions.php:224
+msgid "Projects"
+msgstr "Projets"
+
+#: ../functions.php:225
+msgid "Project"
+msgstr "Projet"
+
+#: ../functions.php:226
+#: ../functions.php:286
+#: ../functions.php:322
+msgid "Add New"
+msgstr "Ajouter"
+
+#: ../functions.php:227
+msgid "Add New Project"
+msgstr "Ajouter un nouveau projet"
+
+#: ../functions.php:228
+msgid "Edit Project"
+msgstr "Modifier le projet"
+
+#: ../functions.php:229
+msgid "New Project"
+msgstr "Nouveau projet"
+
+#: ../functions.php:230
+msgid "All Projects"
+msgstr "Tous les projets"
+
+#: ../functions.php:231
+msgid "View Project"
+msgstr "Voir le projet"
+
+#: ../functions.php:232
+msgid "Search Projects"
+msgstr "Rechercher dans les projets"
+
+#: ../functions.php:233
+#: ../functions.php:293
+#: ../functions.php:329
+msgid "Nothing found"
+msgstr "Aucun résultat"
+
+#: ../functions.php:234
+#: ../functions.php:294
+#: ../functions.php:330
+msgid "Nothing found in Trash"
+msgstr "Aucun résultat dans la poubelle"
+
+#: ../functions.php:261
+#: ../page-sitemap.php:34
+#: ../epanel/options_vertex.php:395
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../functions.php:262
+#: ../functions.php:271
+msgid "Category"
+msgstr "Catégorie"
+
+#: ../functions.php:263
+msgid "Search Categories"
+msgstr "Rechercher dans les catégories"
+
+#: ../functions.php:264
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#: ../functions.php:265
+msgid "Parent Category"
+msgstr "Catégorie parente"
+
+#: ../functions.php:266
+msgid "Parent Category:"
+msgstr "Catégorie parente:"
+
+#: ../functions.php:267
+msgid "Edit Category"
+msgstr "Modifier la catégorie"
+
+#: ../functions.php:268
+msgid "Update Category"
+msgstr "Mettre à jour la catégorie"
+
+#: ../functions.php:269
+msgid "Add New Category"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: ../functions.php:270
+msgid "New Category Name"
+msgstr "Nom de la nouvelle catégorie"
+
+#: ../functions.php:284
+msgid "Team Members"
+msgstr "Membres de l'équipe"
+
+#: ../functions.php:285
+msgid "Team Member"
+msgstr "Membre de l'équipe"
+
+#: ../functions.php:287
+msgid "Add New Team Member"
+msgstr "Ajouter un nouveau membre à l'équipe"
+
+#: ../functions.php:288
+msgid "Edit Team Member"
+msgstr "Modifier le membre de l'équipe"
+
+#: ../functions.php:289
+msgid "New Team Member"
+msgstr "Nouveau membre"
+
+#: ../functions.php:290
+msgid "All Team Members"
+msgstr "Tous les membres"
+
+#: ../functions.php:291
+msgid "View Team Member"
+msgstr "Voir le membre"
+
+#: ../functions.php:292
+msgid "Search Team Members"
+msgstr "Rechercher dans les membres de l'équipe"
+
+#: ../functions.php:320
+msgid "Testimonials"
+msgstr "Citations"
+
+#: ../functions.php:321
+msgid "Testimonial"
+msgstr "Citation"
+
+#: ../functions.php:323
+msgid "Add New Testimonial"
+msgstr "Ajouter une citation"
+
+#: ../functions.php:324
+msgid "Edit Testimonial"
+msgstr "Modifier la citation"
+
+#: ../functions.php:325
+msgid "New Testimonial"
+msgstr "Nouvelle citation"
+
+#: ../functions.php:326
+msgid "All Testimonials"
+msgstr "Toutes les citations"
+
+#: ../functions.php:327
+msgid "View Testimonial"
+msgstr "Voir la citation"
+
+#: ../functions.php:328
+msgid "Search Testimonials"
+msgstr "Rechercher dans les citations"
+
+#: ../functions.php:363
+#, php-format
+msgid "Project updated. <a href=\"%s\">View Project</a>"
+msgstr "Projet mis à jour. <a href=\"%s\">Voir le projet</a>"
+
+#: ../functions.php:364
+#: ../functions.php:381
+#: ../functions.php:398
+msgid "Custom field updated."
+msgstr "Champs personnalisé mis à jour."
+
+#: ../functions.php:365
+#: ../functions.php:382
+#: ../functions.php:399
+msgid "Custom field deleted."
+msgstr "Champs personnalisé effacé."
+
+#: ../functions.php:366
+msgid "Project updated."
+msgstr "Projet mis à jour."
+
+#: ../functions.php:368
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr "Projet restauré depuis la révision %s"
+
+#: ../functions.php:369
+#, php-format
+msgid "Project published. <a href=\"%s\">View Project</a>"
+msgstr "Projet publié. <a href=\"%s\">Voir le projet</a>"
+
+#: ../functions.php:370
+msgid "Project saved."
+msgstr "Projet sauvegardé."
+
+#: ../functions.php:371
+#, php-format
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview Project</a>"
+msgstr "Projet envoyé. <a target=\"_blank\" href=\"%s\">Aperçu du projet</a>"
+
+#: ../functions.php:372
+#, php-format
+msgid "Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Project</a>"
+msgstr "Projet programmé le: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Aperçu du projet</a>"
+
+#: ../functions.php:374
+#: ../functions.php:391
+#: ../functions.php:408
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../functions.php:375
+#, php-format
+msgid "Project draft updated. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr "Brouillon du projet mis à jour. <a target=\"_blank\" href=\"%s\">Aperçu de la discussion</a>"
+
+#: ../functions.php:380
+#, php-format
+msgid "Testimonial updated. <a href=\"%s\">View Testimonial</a>"
+msgstr "Citation mise à jour. <a href=\"%s\">Voir la citation</a>"
+
+#: ../functions.php:383
+msgid "Testimonial updated."
+msgstr "Citation mise à jour."
+
+#: ../functions.php:385
+#, php-format
+msgid "Testimonial restored to revision from %s"
+msgstr "Citation restaurée depuis la révision %s"
+
+#: ../functions.php:386
+#, php-format
+msgid "Testimonial published. <a href=\"%s\">View Testimonial</a>"
+msgstr "Catation publiée. <a href=\"%s\">Voir la citation</a>"
+
+#: ../functions.php:387
+msgid "Testimonial saved."
+msgstr "Citation sauvegardée."
+
+#: ../functions.php:388
+#, php-format
+msgid "Testimonial submitted. <a target=\"_blank\" href=\"%s\">Preview Testimonial</a>"
+msgstr "Citation envoyée. <a target=\"_blank\" href=\"%s\">Aperçu de la citation</a>"
+
+#: ../functions.php:389
+#, php-format
+msgid "Testimonial scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Testimonial</a>"
+msgstr "Citation programmée le: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Aperçu de la citation</a>"
+
+#: ../functions.php:392
+#, php-format
+msgid "Testimonial draft updated. <a target=\"_blank\" href=\"%s\">Preview Testimonial</a>"
+msgstr "Brouillon de la citation mis à jour. <a target=\"_blank\" href=\"%s\">Aperçu de la citation</a>"
+
+#: ../functions.php:397
+#, php-format
+msgid "Team Member updated. <a href=\"%s\">View Team Member</a>"
+msgstr ""
+
+#: ../functions.php:400
+msgid "Team Member updated."
+msgstr "Membre de l'équipe mis à jour"
+
+#: ../functions.php:402
+#, php-format
+msgid "Team Member restored to revision from %s"
+msgstr "Membre de l'équipe restauré depuis la révision %s"
+
+#: ../functions.php:403
+#, php-format
+msgid "Team Member published. <a href=\"%s\">View Team Member</a>"
+msgstr ""
+
+#: ../functions.php:404
+msgid "Team Member saved."
+msgstr "Membre de l'équipe enregistré."
+
+#: ../functions.php:405
+#, php-format
+msgid "Team Member submitted. <a target=\"_blank\" href=\"%s\">Preview Team Member</a>"
+msgstr ""
+
+#: ../functions.php:406
+#, php-format
+msgid "Team Member scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Team Member</a>"
+msgstr ""
+
+#: ../functions.php:409
+#, php-format
+msgid "Team Member draft updated. <a target=\"_blank\" href=\"%s\">Preview Team Member</a>"
+msgstr ""
+
+#: ../functions.php:417
+#: ../functions.php:418
+#: ../functions.php:419
+#: ../functions.php:420
+msgid "ET Settings"
+msgstr "Paramètres ET"
+
+#: ../functions.php:437
+msgid "Position"
+msgstr "Position"
+
+#: ../functions.php:447
+#: ../functions.php:462
+msgid "Skill Name"
+msgstr "Nom de la compétence"
+
+#: ../functions.php:452
+#: ../functions.php:467
+msgid "Skill Value ( 0-100 )"
+msgstr "Valeur de la compétence ( 0-100 )"
+
+#: ../functions.php:455
+#: ../functions.php:470
+msgid "Delete Skill"
+msgstr "Effacer la compétence"
+
+#: ../functions.php:475
+msgid "Add Skill"
+msgstr "Ajouter une compétence"
+
+#: ../functions.php:482
+msgid "Header Background Image"
+msgstr "Image de fond d'entête"
+
+#: ../functions.php:484
+#: ../epanel/core_functions.php:204
+msgid "Upload Image"
+msgstr "Envoyer une image"
+
+#: ../functions.php:584
+msgid "Fonts"
+msgstr "Polices"
+
+#: ../functions.php:589
+msgid "Schemes"
+msgstr "Jeux de couleur"
+
+#: ../functions.php:591
+msgid "Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+
+#: ../functions.php:602
+msgid "Link Color"
+msgstr "Couleur du lien"
+
+#: ../functions.php:615
+msgid "Main Font Color"
+msgstr "Couleur de la police principale"
+
+#: ../functions.php:628
+msgid "Accent Color #1"
+msgstr "Couleur d'accent #1"
+
+#: ../functions.php:641
+msgid "Accent Color #2"
+msgstr "Couleur d'accent #2"
+
+#: ../functions.php:654
+msgid "Menu Links Color"
+msgstr "Couleur des liens du menu"
+
+#: ../functions.php:667
+msgid "Active Menu Link Color"
+msgstr ""
+
+#: ../functions.php:679
+msgid "Header Font"
+msgstr ""
+
+#: ../functions.php:693
+msgid "Body Font"
+msgstr ""
+
+#: ../functions.php:708
+msgid "Color Schemes"
+msgstr "Jeux de couleurs"
+
+#: ../functions.php:713
+msgid "Default"
+msgstr "Défaut:"
+
+#: ../functions.php:714
+msgid "Blue"
+msgstr ""
+
+#: ../functions.php:715
+msgid "Green"
+msgstr ""
+
+#: ../functions.php:716
+msgid "Purple"
+msgstr ""
+
+#: ../functions.php:717
+msgid "Red"
+msgstr ""
+
+#: ../functions.php:811
+#: ../page-blog.php:47
+msgid "0 comments"
+msgstr "0 Commentaire"
+
+#: ../functions.php:811
+#: ../page-blog.php:47
+msgid "1 comment"
+msgstr "1 Commentaire"
+
+#: ../functions.php:811
+#: ../page-blog.php:47
+msgid "comments"
+msgstr "Commentaires"
+
+#: ../functions.php:878
+msgid "Sign Up Today"
+msgstr ""
+
+#: ../header.php:78
+#: ../epanel/custom_functions.php:434
+msgid "Home"
+msgstr "Accueil"
+
+#: ../header.php:108
+msgid "Posts Tagged &quot;"
+msgstr "Articles Taggés"
+
+#: ../header.php:110
+#: ../header.php:112
+#: ../header.php:114
+msgid "Posts made in"
+msgstr "Articles depuis"
+
+#: ../header.php:116
+msgid "Search results for"
+msgstr "Résultats de recherche pour"
+
+#: ../header.php:123
+msgid "Posts by "
+msgstr "Articles par"
+
+#: ../image.php:53
+msgid "&larr; Previous"
+msgstr "&larr;  Précédent"
+
+#: ../image.php:54
+msgid "Next &rarr;"
+msgstr "Suivant &rarr;"
+
+#: ../image.php:59
+#: ../page-blog.php:31
+#: ../page-contact.php:80
+#: ../page-full.php:17
+#: ../page-gallery.php:27
+#: ../page-login.php:24
+#: ../page-search.php:23
+#: ../page-sitemap.php:24
+#: ../page-template-portfolio.php:36
+#: ../page.php:12
+#: ../single-project.php:24
+#: ../single.php:14
+msgid "Pages:"
+msgstr "Pages"
+
+#: ../index.php:48
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: ../page-blog.php:47
+msgid "Posted"
+msgstr "Posté"
+
+#: ../page-blog.php:47
+msgid "by"
+msgstr "par"
+
+#: ../page-blog.php:67
+msgid "read more"
+msgstr "Lire la suite"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr "Assurez vous d'avoir renseigné le captcha"
+
+#: ../page-contact.php:22
+msgid "Numbers regenerated."
+msgstr "Chiffres régénérés"
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr "Captcha invalide"
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr "Assurez vous d'avoir renseigné tous les champs."
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr "Adresse email invalide!"
+
+#: ../page-contact.php:65
+msgid "Thanks for contacting us"
+msgstr "Merci de prendre contact avec nous"
+
+#: ../page-contact.php:90
+#: ../page-contact.php:91
+msgid "Name"
+msgstr "Nom:"
+
+#: ../page-contact.php:95
+#: ../page-contact.php:96
+msgid "Email Address"
+msgstr "Adresse email"
+
+#: ../page-contact.php:100
+#: ../page-contact.php:101
+msgid "Subject"
+msgstr "Sujet"
+
+#: ../page-contact.php:108
+msgid "Captcha: "
+msgstr "Captcha: "
+
+#: ../page-contact.php:119
+#: ../page-contact.php:120
+msgid "Message"
+msgstr "Message"
+
+#: ../page-contact.php:125
+#: ../epanel/core_functions.php:203
+#: ../epanel/core_functions.php:377
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: ../page-contact.php:126
+#: ../page-search.php:62
+msgid "Submit"
+msgstr "Envoyer"
+
+#: ../page-gallery.php:52
+#: ../page-template-portfolio.php:111
+msgid "Zoom in"
+msgstr "Zoomer"
+
+#: ../page-gallery.php:53
+#: ../page-template-portfolio.php:112
+#: ../includes/entry_project.php:16
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: ../page-login.php:33
+msgid "Username"
+msgstr "Identifiant"
+
+#: ../page-login.php:34
+msgid "Password"
+msgstr "Mot de passe"
+
+#: ../page-search.php:28
+msgid "search this website"
+msgstr "Rechercher sur ce site"
+
+#: ../page-search.php:31
+msgid "search this site..."
+msgstr "Rechercher..."
+
+#: ../page-search.php:33
+msgid "Posts"
+msgstr "Articles"
+
+#: ../page-search.php:34
+#: ../page-sitemap.php:29
+#: ../epanel/options_vertex.php:390
+msgid "Pages"
+msgstr "Pages"
+
+#: ../page-search.php:37
+msgid "Select a month"
+msgstr "Sélectionner un mois"
+
+#: ../page-sitemap.php:39
+msgid "Tags"
+msgstr "Tags:"
+
+#: ../page-sitemap.php:55
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../epanel/core_functions.php:26
+#: ../epanel/core_functions.php:389
+msgid "Saving..."
+msgstr "Enregistrement"
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Options enregistrées."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Options"
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "Paramètres enregistrés"
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "Réinitialiser les paramètres"
+
+#: ../epanel/core_functions.php:111
+#: ../epanel/options_vertex.php:400
+#: ../epanel/options_vertex.php:551
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Navigation"
+
+#: ../epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr "Paramètres de mise en page"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Gestion des publicités"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Couleurs"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Intégration"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Documentation"
+
+#: ../epanel/core_functions.php:229
+msgid "You don't have pages"
+msgstr "Vous n'avez pas de pages"
+
+#: ../epanel/core_functions.php:362
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#: ../epanel/core_functions.php:373
+msgid "This will return all of the settings throughout the options page to their default values. <strong>Are you sure you want to do this?"
+msgstr "Ceci remettra toutes les options à leur valeur par défaut. <strong>Voulez vous vraiment faire cela?"
+
+#: ../epanel/custom_functions.php:840
+msgid "Image doesn't exist"
+msgstr "L'image n'existe pas"
+
+#: ../epanel/custom_functions.php:1029
+#, php-format
+msgid "<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will disappear once you have clicked the Save button within the <a href=\"%2$s\">theme's options page</a>.</p></div>"
+msgstr "<div class=\"updated\"><p>Il s'agit d'une installation toute fraîche du theme %1$s. N'oubliez pas de vous rendre sur l'<a href=\"%2$s\">ePanel</a> pour le configurer. Ce message disparaîtra une fois le bouton \"Enregistrer les modifications\" sur la <a href=\"%2$s\">page d'options du theme</a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1041
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not available for this theme. If this is an Elegant Themes theme, then you must re-download the theme from the member's area and <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr "Une nouvelle version de %1$s est disponible.<a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">Voir les détails de la version %3$s </a>. <em>Mises à jour automatiques non disponibles pour ce theme. S'il s'agit d'un thème Elegant Themes, il vous faut re-télécharger ce thème depuis la zone membre et <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">le ré-installer</a> pour le mettre à jour.</em>"
+
+#: ../epanel/custom_functions.php:1045
+msgid "Auto-updates are not available for this theme. If this is an Elegant Themes theme, then you must re-download the theme from the member's area and <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-install it</a> in order to update it to the latest version."
+msgstr "Les mises à jour automatiques ne sont pas disponibles pour ce thème. S'il s'agit d'un thème Elegant Themes, il vous faut re-télécharger ce thème depuis la zone membre et <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">le ré-installer</a> pour le mettre à jour.</em>"
+
+#: ../epanel/options_vertex.php:38
+msgid "General"
+msgstr "General"
+
+#: ../epanel/options_vertex.php:42
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+#: ../epanel/options_vertex.php:46
+msgid "Featured Slider"
+msgstr "Type de slide"
+
+#: ../epanel/options_vertex.php:53
+msgid "Logo"
+msgstr "Logo"
+
+#: ../epanel/options_vertex.php:57
+msgid "If you would like to use your own custom logo image click the Upload Image button."
+msgstr ""
+
+#: ../epanel/options_vertex.php:60
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_vertex.php:64
+msgid "If you would like to use your own custom favicon image click the Upload Image button."
+msgstr ""
+
+#: ../epanel/options_vertex.php:67
+msgid "Header Section Custom Background"
+msgstr ""
+
+#: ../epanel/options_vertex.php:71
+msgid "If you would like to use your own background image for the Header section click the Upload Image button."
+msgstr ""
+
+#: ../epanel/options_vertex.php:74
+msgid "Grab the first post image"
+msgstr ""
+
+#: ../epanel/options_vertex.php:78
+msgid "By default thumbnail images are created using custom fields. However, if you would rather use the images that are already in your post for your thumbnail (and bypass using custom fields) you can activate this option. Once activcated thumbnail images will be generated automatically using the first image in your post. The image must be hosted on your own server."
+msgstr ""
+
+#: ../epanel/options_vertex.php:81
+msgid "Use site name instead of the logo image"
+msgstr ""
+
+#: ../epanel/options_vertex.php:85
+msgid "Site name is used for the logo by default, if you want to use the Logo Image set above, you need to disable this option."
+msgstr ""
+
+#: ../epanel/options_vertex.php:90
+msgid "Blog Style Mode"
+msgstr "Style Blog"
+
+#: ../epanel/options_vertex.php:94
+msgid "By default the theme truncates your posts on index/homepages automatically to create post previews. If you would rather show your posts in full on index pages like a traditional blog then you can activate this feature."
+msgstr ""
+
+#: ../epanel/options_vertex.php:99
+msgid "Call To Action Button Url"
+msgstr ""
+
+#: ../epanel/options_vertex.php:103
+msgid "Here you can define the Call To Action Button Url."
+msgstr ""
+
+#: ../epanel/options_vertex.php:107
+msgid "Number of Posts displayed on Category page"
+msgstr "Nombre d'articles par page"
+
+#: ../epanel/options_vertex.php:111
+msgid "Here you can designate how many recent articles are displayed on the Category page. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_vertex.php:115
+msgid "Number of Posts displayed on Archive pages"
+msgstr ""
+
+#: ../epanel/options_vertex.php:119
+msgid "Here you can designate how many recent articles are displayed on the Archive pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_vertex.php:123
+msgid "Number of Posts displayed on Search pages"
+msgstr ""
+
+#: ../epanel/options_vertex.php:127
+msgid "Here you can designate how many recent articles are displayed on the Search results pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_vertex.php:131
+msgid "Number of Posts displayed on Tag pages"
+msgstr ""
+
+#: ../epanel/options_vertex.php:135
+msgid "Here you can designate how many recent articles are displayed on the Tag pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_vertex.php:139
+msgid "Date format"
+msgstr ""
+
+#: ../epanel/options_vertex.php:143
+msgid "This option allows you to change how your dates are displayed. For more information please refer to the WordPress codex here:<a href='http://codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and Time</a>"
+msgstr ""
+
+#: ../epanel/options_vertex.php:149
+msgid "Use excerpts when defined"
+msgstr ""
+
+#: ../epanel/options_vertex.php:153
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr ""
+
+#: ../epanel/options_vertex.php:156
+msgid "Responsive shortcodes"
+msgstr ""
+
+#: ../epanel/options_vertex.php:160
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+
+#: ../epanel/options_vertex.php:165
+msgid "Google Fonts subsets"
+msgstr ""
+
+#: ../epanel/options_vertex.php:169
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr ""
+
+#: ../epanel/options_vertex.php:172
+msgid "Animate elements on scroll"
+msgstr ""
+
+#: ../epanel/options_vertex.php:176
+msgid "This will enable animations that happen as you scroll the page."
+msgstr ""
+
+#: ../epanel/options_vertex.php:181
+msgid "Custom CSS"
+msgstr ""
+
+#: ../epanel/options_vertex.php:185
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+
+#: ../epanel/options_vertex.php:195
+msgid "Display Projects Section"
+msgstr "Afficher la section des Projets"
+
+#: ../epanel/options_vertex.php:199
+msgid "Here you can choose to display the Projects section on the homepage. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:202
+msgid "Display Testimonials Section"
+msgstr "Afficher la section des citations"
+
+#: ../epanel/options_vertex.php:206
+msgid "Here you can choose to display the Testimonials Section on the homepage. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:211
+msgid "Display Team Section"
+msgstr "Afficher la section équipe"
+
+#: ../epanel/options_vertex.php:215
+msgid "Here you can choose to display the Team Section on the homepage. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:220
+msgid "Projects section title"
+msgstr "Titre de la section Projets"
+
+#: ../epanel/options_vertex.php:225
+msgid "Here you can define Projects section title on homepage."
+msgstr ""
+
+#: ../epanel/options_vertex.php:228
+msgid "Projects section description"
+msgstr ""
+
+#: ../epanel/options_vertex.php:233
+msgid "Here you can define Projects section description on homepage."
+msgstr ""
+
+#: ../epanel/options_vertex.php:236
+msgid "Featured slider section title"
+msgstr ""
+
+#: ../epanel/options_vertex.php:241
+msgid "Here you can define Featured slider section title on homepage."
+msgstr ""
+
+#: ../epanel/options_vertex.php:244
+msgid "Featured slider section description"
+msgstr ""
+
+#: ../epanel/options_vertex.php:249
+msgid "Here you can define Featured slider section description on homepage."
+msgstr ""
+
+#: ../epanel/options_vertex.php:252
+msgid "Testimonials section title"
+msgstr "Titre de la section des citations"
+
+#: ../epanel/options_vertex.php:257
+msgid "Here you can define Testimonials section title on homepage."
+msgstr ""
+
+#: ../epanel/options_vertex.php:260
+msgid "Testimonials section description"
+msgstr ""
+
+#: ../epanel/options_vertex.php:265
+msgid "Here you can define Testimonials section description on homepage."
+msgstr ""
+
+#: ../epanel/options_vertex.php:268
+msgid "Team section title"
+msgstr "Titre de la section équipe"
+
+#: ../epanel/options_vertex.php:273
+msgid "Here you can define Team section title on homepage."
+msgstr ""
+
+#: ../epanel/options_vertex.php:276
+msgid "Team section description"
+msgstr ""
+
+#: ../epanel/options_vertex.php:281
+msgid "Here you can define Team section description on homepage."
+msgstr ""
+
+#: ../epanel/options_vertex.php:284
+msgid "Number of Projects displayed on homepage"
+msgstr ""
+
+#: ../epanel/options_vertex.php:288
+msgid "Here you can designate how many projects are displayed on the homepage."
+msgstr ""
+
+#: ../epanel/options_vertex.php:292
+msgid "Number of Posts displayed on homepage in Blog Style Mode"
+msgstr ""
+
+#: ../epanel/options_vertex.php:296
+msgid "Here you can designate how many recent articles are displayed on the homepage, if the Blog Style Mode option is activated. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_vertex.php:300
+msgid "Exclude categories from homepage recent posts in Blog Style Mode"
+msgstr ""
+
+#: ../epanel/options_vertex.php:304
+msgid "By default the homepage displays a list of all of your most recent posts, if the Blog Style Mode option is activated. However, if you would like to exlcude certain category from the list you can do so here. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:315
+msgid "Display Featured Slider"
+msgstr "Afficher le diaporama \"mis en avant\""
+
+#: ../epanel/options_vertex.php:319
+msgid "You can choose whether or not to display the Featured Articles section on the homepge. If you don't want to utilize this feature simply disable this option."
+msgstr ""
+
+#: ../epanel/options_vertex.php:324
+msgid "Number of Featured Slides"
+msgstr "Nombre d'onglets \"mis en avant\" par page"
+
+#: ../epanel/options_vertex.php:328
+msgid "This setting controls how menu tabs are added to the Featured Articles slider on the homepage."
+msgstr ""
+
+#: ../epanel/options_vertex.php:332
+msgid "Featured Posts Category"
+msgstr "Catégorie des articles \"Mis en avant\""
+
+#: ../epanel/options_vertex.php:336
+msgid "Here you can choose which category to be used to populate the Featured Slider on the homepage. This only applies if you have disabled the Use Pages options below."
+msgstr ""
+
+#: ../epanel/options_vertex.php:340
+msgid "Use pages"
+msgstr "Utiliser les pages"
+
+#: ../epanel/options_vertex.php:344
+msgid "The homepage Featured Slider can be set up using two methods. You can populate the slider using Posts, or you can populate it using Pages. If you would like to use Pages in the Featured Slider then enable this option."
+msgstr ""
+
+#: ../epanel/options_vertex.php:349
+msgid "Include pages in the Featured Slider (if Use Pages enabled)"
+msgstr ""
+
+#: ../epanel/options_vertex.php:353
+msgid "If you selected Use Pages above, then use the checkboxes below to choose which pages are displayed in the Featured Slider."
+msgstr ""
+
+#: ../epanel/options_vertex.php:358
+msgid "Automatic Slider Animation"
+msgstr "Défilement automatique du diaporama"
+
+#: ../epanel/options_vertex.php:362
+msgid "If you would like the Featured Articles slider to slide automatically, without the visitor having to click the next button, enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+
+#: ../epanel/options_vertex.php:367
+msgid "Automatic Animation Speed (in ms)"
+msgstr ""
+
+#: ../epanel/options_vertex.php:371
+msgid "Here you can designate how fast the slider fades between each article. The higher the number the longer the pause between each rotation."
+msgstr ""
+
+#: ../epanel/options_vertex.php:408
+msgid "Exclude pages from the navigation bar"
+msgstr ""
+
+#: ../epanel/options_vertex.php:412
+msgid "Here you can choose to remove certain pages from the navigation menu. All pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:416
+#: ../epanel/options_vertex.php:471
+msgid "Show dropdown menus"
+msgstr "Montrer les menus déroulants"
+
+#: ../epanel/options_vertex.php:420
+msgid "If you would like to remove the dropdown menus from the pages navigation bar disable this feature."
+msgstr ""
+
+#: ../epanel/options_vertex.php:423
+msgid "Display Home link"
+msgstr "Afficher le lien \"Accueil\""
+
+#: ../epanel/options_vertex.php:427
+msgid "By default the theme creates a Home link that, when clicked, leads back to your blog's homepage. If, however, you are using a static homepage and have already created a page called Home to use, this will result in a duplicate link. In this case you should disable this feature to remove the link."
+msgstr ""
+
+#: ../epanel/options_vertex.php:432
+msgid "Sort Pages Links"
+msgstr "Classer les liens des pages"
+
+#: ../epanel/options_vertex.php:436
+msgid "Here you can choose to sort your pages links."
+msgstr ""
+
+#: ../epanel/options_vertex.php:439
+msgid "Order Pages Links by Ascending/Descending"
+msgstr ""
+
+#: ../epanel/options_vertex.php:443
+msgid "Here you can choose to reverse the order that your pages links are displayed. You can choose between ascending and descending."
+msgstr ""
+
+#: ../epanel/options_vertex.php:446
+#: ../epanel/options_vertex.php:487
+msgid "Number of dropdown tiers shown"
+msgstr ""
+
+#: ../epanel/options_vertex.php:450
+#: ../epanel/options_vertex.php:491
+msgid "This options allows you to control how many teirs your pages dropdown menu has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+
+#: ../epanel/options_vertex.php:463
+msgid "Exclude categories from the navigation bar"
+msgstr ""
+
+#: ../epanel/options_vertex.php:467
+msgid "Here you can choose to remove certain categories from the navigation menu. All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:475
+msgid "If you would like to remove the dropdown menus from the categories navigation bar disable this feature."
+msgstr ""
+
+#: ../epanel/options_vertex.php:478
+msgid "Hide empty categories"
+msgstr "Cacher les catégories vides"
+
+#: ../epanel/options_vertex.php:482
+msgid "If you would like categories to be displayed in your navigationbar that don't have any posts in them then disable this option. By default empty categories are hidden"
+msgstr ""
+
+#: ../epanel/options_vertex.php:497
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr ""
+
+#: ../epanel/options_vertex.php:501
+msgid "By default pages are sorted by name. However if you would rather have them sorted by ID you can adjust this setting."
+msgstr ""
+
+#: ../epanel/options_vertex.php:504
+msgid "Order Category Links by Ascending/Descending"
+msgstr ""
+
+#: ../epanel/options_vertex.php:508
+msgid "Here you can choose to reverse the order that your categories links are displayed. You can choose between ascending and descending."
+msgstr ""
+
+#: ../epanel/options_vertex.php:517
+msgid "Disable top tier dropdown menu links"
+msgstr ""
+
+#: ../epanel/options_vertex.php:521
+msgid "In some cases users will want to create parent categories or links as placeholders to hold a list of child links or categories. In this case it is not desirable to have the parent links lead anywhere, but instead merely serve an organizational function. Enabling this options will remove the links from all parent pages/categories so that they don't lead anywhere when clicked."
+msgstr ""
+
+#: ../epanel/options_vertex.php:541
+msgid "Single Post Layout"
+msgstr "Paramètres de mise en page \"un seul article\""
+
+#: ../epanel/options_vertex.php:546
+msgid "Single Page Layout"
+msgstr "Paramètres de mise en page \"Une seule page\""
+
+#: ../epanel/options_vertex.php:559
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+
+#: ../epanel/options_vertex.php:563
+msgid "Here you can choose which items appear in the postinfo section on single post pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:567
+msgid "Show comments on posts"
+msgstr "Afficher les commentaires sur les articles"
+
+#: ../epanel/options_vertex.php:571
+msgid "You can disable this option if you want to remove the comments and comment form from single post pages. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:582
+msgid "Show comments on pages"
+msgstr "Afficher les commentaires sur les pages"
+
+#: ../epanel/options_vertex.php:586
+msgid "By default comments are not placed on pages, however, if you would like to allow people to comment on your pages simply enable this option. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:597
+msgid "Post info section"
+msgstr "Section info de l'article"
+
+#: ../epanel/options_vertex.php:601
+msgid "Here you can choose which items appear in the postinfo section on pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:604
+msgid "Show Author Avatar"
+msgstr "Afficher l'avatar de l'auteur"
+
+#: ../epanel/options_vertex.php:608
+msgid "Enable this option to show the post author avatar on index pages."
+msgstr ""
+
+#: ../epanel/options_vertex.php:627
+msgid "Homepage SEO"
+msgstr "SEO page d'accueil"
+
+#: ../epanel/options_vertex.php:632
+msgid "Single Post Page SEO"
+msgstr ""
+
+#: ../epanel/options_vertex.php:637
+msgid "Index Page SEO"
+msgstr "SEO des pages d'index"
+
+#: ../epanel/options_vertex.php:645
+msgid " Enable custom title "
+msgstr " Activer les titres personnalisés"
+
+#: ../epanel/options_vertex.php:649
+msgid "By default the theme uses a combination of your blog name and your blog description, as defined when you created your blog, to create your homepage titles. However if you want to create a custom title then simply enable this option and fill in the custom title field below. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:652
+msgid " Enable meta description"
+msgstr ""
+
+#: ../epanel/options_vertex.php:656
+msgid "By default the theme uses your blog description, as defined when you created your blog, to fill in the meta description field. If you would like to use a different description then enable this option and fill in the custom description field below. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:659
+msgid " Enable meta keywords"
+msgstr ""
+
+#: ../epanel/options_vertex.php:663
+msgid "By default the theme does not add keywords to your header. Most search engines don't use keywords to rank your site anymore, but some people define them anyway just in case. If you want to add meta keywords to your header then enable this option and fill in the custom keywords field below. "
+msgstr ""
+
+#: ../epanel/options_vertex.php:666
+#: ../epanel/options_vertex.php:799
+msgid " Enable canonical URL's"
+msgstr " Activer les URL canoniques"
+
+#: ../epanel/options_vertex.php:670
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URLs all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treaded individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+#: ../epanel/options_vertex.php:675
+msgid "Homepage custom title (if enabled)"
+msgstr ""
+
+#: ../epanel/options_vertex.php:679
+msgid "If you have enabled custom titles you can add your custom title here. Whatever you type here will be placed between the < title >< /title > tags in header.php"
+msgstr ""
+
+#: ../epanel/options_vertex.php:683
+msgid "Homepage meta description (if enabled)"
+msgstr ""
+
+#: ../epanel/options_vertex.php:687
+msgid "If you have enabled meta descriptions you can add your custom description here."
+msgstr ""
+
+#: ../epanel/options_vertex.php:691
+msgid "Homepage meta keywords (if enabled)"
+msgstr ""
+
+#: ../epanel/options_vertex.php:695
+msgid "If you have enabled meta keywords you can add your custom keywords here. Keywords should be separated by comas. For example: wordpress,themes,templates,elegant"
+msgstr ""
+
+#: ../epanel/options_vertex.php:699
+#: ../epanel/options_vertex.php:777
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+
+#: ../epanel/options_vertex.php:704
+msgid "If you are not using cutsom post titles you can still have control over how your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr ""
+
+#: ../epanel/options_vertex.php:707
+#: ../epanel/options_vertex.php:785
+#: ../epanel/options_vertex.php:823
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+
+#: ../epanel/options_vertex.php:711
+#: ../epanel/options_vertex.php:789
+msgid "Here you can change which character separates your blog title and post name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+#: ../epanel/options_vertex.php:721
+msgid "Enable custom titles"
+msgstr "Activer les titres personnalisés"
+
+#: ../epanel/options_vertex.php:725
+msgid "By default the theme creates post titles based on the title of your post and your blog name. If you would like to make your meta title different than your actual post title you can define a custom title for each post using custom fields. This option must be enabled for custom titles to work, and you must choose a custom field name for your title below."
+msgstr ""
+
+#: ../epanel/options_vertex.php:728
+msgid "Enable custom description"
+msgstr ""
+
+#: ../epanel/options_vertex.php:732
+msgid "If you would like to add a meta description to your post you can do so using custom fields. This option must be enabled for descriptions to be displayed on post pages. You can add your meta description using custom fields based off the custom field name you define below."
+msgstr ""
+
+#: ../epanel/options_vertex.php:737
+msgid "Enable custom keywords"
+msgstr ""
+
+#: ../epanel/options_vertex.php:741
+msgid "If you would like to add meta keywords to your post you can do so using custom fields. This option must be enabled for keywords to be displayed on post pages. You can add your meta keywords using custom fields based off the custom field name you define below."
+msgstr ""
+
+#: ../epanel/options_vertex.php:744
+msgid "Enable canonical URL's"
+msgstr "Activer les URL canoniques"
+
+#: ../epanel/options_vertex.php:748
+#: ../epanel/options_vertex.php:803
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URL's all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treaded individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+#: ../epanel/options_vertex.php:753
+msgid "Custom field Name to be used for title"
+msgstr ""
+
+#: ../epanel/options_vertex.php:757
+msgid "When you define your title using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom title you would like to use."
+msgstr ""
+
+#: ../epanel/options_vertex.php:761
+msgid "Custom field Name to be used for description"
+msgstr ""
+
+#: ../epanel/options_vertex.php:765
+msgid "When you define your meta description using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom description you would like to use."
+msgstr ""
+
+#: ../epanel/options_vertex.php:769
+msgid "Custom field Name to be used for keywords"
+msgstr ""
+
+#: ../epanel/options_vertex.php:773
+msgid "When you define your keywords using custom fields you should use this value for the custom field Name. The Value of your custom field should be the meta keywords you would like to use, separated by comas."
+msgstr ""
+
+#: ../epanel/options_vertex.php:782
+msgid "If you are not using cutsom post titles you can still have control over hw your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr ""
+
+#: ../epanel/options_vertex.php:806
+msgid "Enable meta descriptions"
+msgstr "Afficher les méta-descriptions"
+
+#: ../epanel/options_vertex.php:810
+msgid "Check this box if you want to display meta descriptions on category/archive pages. The description is based off the category description you choose when creating/edit your category in wp-admin."
+msgstr ""
+
+#: ../epanel/options_vertex.php:815
+msgid "Choose title autogeneration method"
+msgstr ""
+
+#: ../epanel/options_vertex.php:820
+msgid "Here you can choose how your titles on index pages are generated. You can change which order your blog name and index title are displayed, or you can remove the blog name from the title completely."
+msgstr ""
+
+#: ../epanel/options_vertex.php:827
+msgid "Here you can change which character separates your blog title and index page name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+#: ../epanel/options_vertex.php:848
+msgid "Code Integration"
+msgstr "Intégration de code"
+
+#: ../epanel/options_vertex.php:856
+msgid "Enable header code"
+msgstr ""
+
+#: ../epanel/options_vertex.php:860
+msgid "Disabling this option will remove the header code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_vertex.php:863
+msgid "Enable body code"
+msgstr ""
+
+#: ../epanel/options_vertex.php:867
+msgid "Disabling this option will remove the body code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_vertex.php:872
+msgid "Enable single top code"
+msgstr ""
+
+#: ../epanel/options_vertex.php:876
+msgid "Disabling this option will remove the single top code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_vertex.php:879
+msgid "Enable single bottom code"
+msgstr ""
+
+#: ../epanel/options_vertex.php:883
+msgid "Disabling this option will remove the single bottom code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_vertex.php:888
+msgid "Add code to the < head > of your blog"
+msgstr ""
+
+#: ../epanel/options_vertex.php:892
+msgid "Any code you place here will appear in the head section of every page of your blog. This is useful when you need to add javascript or css to all pages."
+msgstr ""
+
+#: ../epanel/options_vertex.php:895
+msgid "Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+
+#: ../epanel/options_vertex.php:899
+msgid "Any code you place here will appear in body section of all pages of your blog. This is usefull if you need to input a tracking pixel for a state counter such as Google Analytics."
+msgstr ""
+
+#: ../epanel/options_vertex.php:902
+msgid "Add code to the top of your posts"
+msgstr ""
+
+#: ../epanel/options_vertex.php:906
+#: ../epanel/options_vertex.php:913
+msgid "Any code you place here will be placed at the top of all single posts. This is useful if you are looking to integrating things such as social bookmarking links."
+msgstr ""
+
+#: ../epanel/options_vertex.php:909
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+
+#: ../epanel/options_vertex.php:931
+msgid "Documentation"
+msgstr "Documentation"
+
+#: ../epanel/options_vertex.php:957
+msgid "Manage Un-widgetized Advertisements"
+msgstr ""
+
+#: ../epanel/options_vertex.php:965
+msgid "Enable Single Post 468x60 banner"
+msgstr ""
+
+#: ../epanel/options_vertex.php:969
+msgid "Enabling this option will display a 468x60 banner ad on the bottom of your post pages below the single post content. If enabled you must fill in the banner image and destination url below."
+msgstr ""
+
+#: ../epanel/options_vertex.php:974
+msgid "Input 468x60 advertisement banner image"
+msgstr ""
+
+#: ../epanel/options_vertex.php:978
+msgid "Here you can provide 468x60 banner image url"
+msgstr ""
+
+#: ../epanel/options_vertex.php:982
+msgid "Input 468x60 advertisement destination url"
+msgstr ""
+
+#: ../epanel/options_vertex.php:986
+msgid "Here you can provide 468x60 banner destination url"
+msgstr ""
+
+#: ../epanel/options_vertex.php:990
+msgid "Input 468x60 adsense code"
+msgstr ""
+
+#: ../epanel/options_vertex.php:994
+msgid "Place your adsense code here."
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Fill"
+msgstr "Remplir"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "field"
+msgstr "champs"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Invalid email"
+msgstr "Adresse email invalide!"
+
+#: ../epanel/page_templates/page_templates.php:37
+msgid "ET Page Template Settings"
+msgstr "Paramètres de mise en page des pages"
+
+#: ../epanel/page_templates/page_templates.php:64
+msgid "Additional settings appear here, when one of ET page templates is selected ( Page Attributes -> Template )"
+msgstr "Des paramètres supplémentaires apparaîtront ici, lorsque l'une des mises en page ET est sélectionnée ( Attributs de la page -> Mise en page)"
+
+#: ../epanel/page_templates/page_templates.php:69
+msgid "Full Width Page"
+msgstr "Pleine largeur"
+
+#: ../epanel/page_templates/page_templates.php:74
+msgid "Regenerate captcha numbers"
+msgstr "Régénérer les chiffres captcha"
+
+#: ../epanel/page_templates/page_templates.php:78
+msgid "Email To:"
+msgstr "Email à:"
+
+#: ../epanel/page_templates/page_templates.php:84
+msgid "Blog Style mode"
+msgstr "Style Blog"
+
+#: ../epanel/page_templates/page_templates.php:89
+msgid "Hide Auto Thumbnail"
+msgstr "Cacher automatiquement les miniatures"
+
+#: ../epanel/page_templates/page_templates.php:94
+msgid "Show Titles"
+msgstr "Montrer les titres"
+
+#: ../epanel/page_templates/page_templates.php:99
+msgid "Show Descriptions"
+msgstr "Montrer les descriptions"
+
+#: ../epanel/page_templates/page_templates.php:104
+msgid "Detect Portrait Images"
+msgstr "Détecter les images en mode portrait"
+
+#: ../epanel/page_templates/page_templates.php:108
+msgid "Thumbnail Size:"
+msgstr "Taille des miniatures"
+
+#: ../epanel/page_templates/page_templates.php:109
+msgid "Small"
+msgstr "Petite"
+
+#: ../epanel/page_templates/page_templates.php:110
+msgid "Medium"
+msgstr "Moyenne"
+
+#: ../epanel/page_templates/page_templates.php:111
+msgid "Large"
+msgstr "Grande"
+
+#: ../epanel/page_templates/page_templates.php:115
+#: ../epanel/page_templates/page_templates.php:120
+msgid "Number of posts per page:"
+msgstr "Nombre d'articles par page"
+
+#: ../epanel/page_templates/page_templates.php:125
+msgid "Select blog categories:"
+msgstr "Sélectionner la catégorie:"
+
+#: ../epanel/page_templates/page_templates.php:144
+msgid "Select gallery categories:"
+msgstr "Sélectionner les catégories pour la galerie:"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Previous"
+msgstr "Précédent"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Next"
+msgstr "Suivant"
+
+#: ../epanel/shortcodes/shortcodes.php:302
+msgid "Member Login"
+msgstr "Connexion Membre"
+
+#: ../epanel/shortcodes/shortcodes.php:305
+msgid "Username: "
+msgstr "Identifiant"
+
+#: ../epanel/shortcodes/shortcodes.php:306
+msgid "Password: "
+msgstr "Mot de passe"
+
+#: ../epanel/shortcodes/shortcodes.php:307
+msgid "Login"
+msgstr "Connexion"
+
+#: ../epanel/shortcodes/shortcodes.php:343
+msgid "Add a Tooltip Text"
+msgstr "Ajouter un texte \"tooltip\""
+
+#: ../epanel/shortcodes/shortcodes.php:365
+msgid "Click here to learn more"
+msgstr "Cliquer ici pour en apprendre plus"
+
+#: ../epanel/shortcodes/shortcodes.php:973
+msgid "Caption"
+msgstr "Légende"
+
+#: ../epanel/shortcodes/shortcodes.php:974
+msgid "Caption goes here"
+msgstr "La légende est ici"
+
+#: ../epanel/shortcodes/shortcodes.php:975
+msgid "Caption title goes here"
+msgstr "Le titre de la légende ira ici"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "State"
+msgstr "État"
+
+#: ../epanel/shortcodes/shortcodes.php:981
+msgid "Select between expanded and closed state"
+msgstr "Sélectionner l'état: ouvert ou fermé"
+
+#: ../epanel/shortcodes/shortcodes.php:986
+#: ../epanel/shortcodes/shortcodes.php:1002
+#: ../epanel/shortcodes/shortcodes.php:1031
+#: ../epanel/shortcodes/shortcodes.php:1111
+msgid "Content"
+msgstr "Le contenu"
+
+#: ../epanel/shortcodes/shortcodes.php:987
+#: ../epanel/shortcodes/shortcodes.php:1003
+#: ../epanel/shortcodes/shortcodes.php:1089
+#: ../epanel/shortcodes/shortcodes.php:1112
+msgid "Content goes here"
+msgstr "Le contenu ici"
+
+#: ../epanel/shortcodes/shortcodes.php:988
+#: ../epanel/shortcodes/shortcodes.php:1004
+#: ../epanel/shortcodes/shortcodes.php:1033
+msgid "Content text or html"
+msgstr "Contenu texte ou html"
+
+#: ../epanel/shortcodes/shortcodes.php:995
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "Type"
+msgstr "Type"
+
+#: ../epanel/shortcodes/shortcodes.php:997
+msgid "Type of the box"
+msgstr "Type de boîte"
+
+#: ../epanel/shortcodes/shortcodes.php:1011
+msgid "Link"
+msgstr "Vérifiez votre adresse email pour le lien de vérification."
+
+#: ../epanel/shortcodes/shortcodes.php:1013
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1019
+msgid "Choose button type"
+msgstr "Choisissez le type de bouton"
+
+#: ../epanel/shortcodes/shortcodes.php:1024
+msgid "Color"
+msgstr "Couleur"
+
+#: ../epanel/shortcodes/shortcodes.php:1026
+msgid "Choose button color"
+msgstr "Choisir la couleur du bouton"
+
+#: ../epanel/shortcodes/shortcodes.php:1032
+msgid "Link text"
+msgstr "Texte du lien"
+
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Icon"
+msgstr "Icône"
+
+#: ../epanel/shortcodes/shortcodes.php:1039
+msgid "Used for icon button type"
+msgstr "Utilisé pour l'icône du bouton"
+
+#: ../epanel/shortcodes/shortcodes.php:1044
+msgid "Open link in new window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#: ../epanel/shortcodes/shortcodes.php:1046
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Sélectionnez oui si le lien devrait être ouvert dans une nouvelle fenêtre de navigation"
+
+#: ../epanel/shortcodes/shortcodes.php:1054
+msgid "Slider Type"
+msgstr "Type de slide"
+
+#: ../epanel/shortcodes/shortcodes.php:1056
+msgid "Select Slider Type here"
+msgstr "Sélectionnez le type de diaporama ici"
+
+#: ../epanel/shortcodes/shortcodes.php:1061
+msgid "Effect"
+msgstr "Effet"
+
+#: ../epanel/shortcodes/shortcodes.php:1063
+msgid "Select Animation Effect"
+msgstr "Sélectionnez l'effet d'animation"
+
+#: ../epanel/shortcodes/shortcodes.php:1068
+msgid "Auto"
+msgstr "Auto"
+
+#: ../epanel/shortcodes/shortcodes.php:1070
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Choisissez oui si vous souhaitez un défilement automatique du diaporama"
+
+#: ../epanel/shortcodes/shortcodes.php:1075
+msgid "Auto Speed"
+msgstr "Vitesse automatique"
+
+#: ../epanel/shortcodes/shortcodes.php:1077
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Vitesse d'animation automatique du diaporama (ne fonctionne que si Auto est sur oui)"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Tab Text"
+msgstr "Texte de l'onglet"
+
+#: ../epanel/shortcodes/shortcodes.php:1088
+msgid "Tab Content"
+msgstr "Contenu de l'onglet"
+
+#: ../epanel/shortcodes/shortcodes.php:1090
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr "Collez l'url de l'image ici, si vous avez choisis le type de diaporama \"images\""
+
+#: ../epanel/shortcodes/shortcodes.php:1098
+msgid "Image Url"
+msgstr "URL de l'image"
+
+#: ../epanel/shortcodes/shortcodes.php:1100
+msgid "Author Image URL"
+msgstr "Auteur"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Use resizing"
+msgstr "Utiliser le redimensionnement"
+
+#: ../epanel/shortcodes/shortcodes.php:1181
+msgid "+ Add One More Tab"
+msgstr "+ Ajouter un onglet"
+
+#: ../epanel/shortcodes/shortcodes.php:1331
+msgid "Image Height"
+msgstr "Hauteur de l'image"
+
+#: ../epanel/shortcodes/shortcodes.php:1332
+msgid "Image Width"
+msgstr "Largeur de l'image"
+
+#: ../includes/featured.php:56
+msgid "More Information"
+msgstr "Vos informations:"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entrées plus anciennes"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Prochaines entrées &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Aucun résultat"
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "La page demandée ne peut-être trouvée. Ré-essayez en affinant votre recherche, ou en utilisant le menu ci dessus pour trouver cet article."
+
+#: ../includes/functions/comments.php:16
+#, php-format
+msgid "%1$s"
+msgstr "%1$s à %2$s"
+
+#: ../includes/functions/comments.php:19
+msgid "(Edit)"
+msgstr "Modifier"
+
+#: ../includes/functions/comments.php:23
+msgid "Post a Reply"
+msgstr "Répondre à:"
+
+#: ../includes/functions/comments.php:32
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire attend son approbation."
+
+#: ../includes/functions/installation.php:1
+msgid "Read Vertex Documentation"
+msgstr "Lire la documentation Vertex"
+

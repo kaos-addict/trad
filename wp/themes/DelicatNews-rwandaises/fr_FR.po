@@ -1,0 +1,721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DelicateNews 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-07 05:23+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: MerMouY <mermouy@openmailbox.org>\n"
+"Language-Team: MerMouY <mermouy@openmailbox.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:5
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Ne chargez pas cette page directement. Merci!"
+
+#: ../comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cet article est protégé par un mot de passe. Entrez votre mot de passe pour "
+"voir les commentaires."
+
+#: ../comments.php:20
+msgid "0 Comments"
+msgstr "0 Commentaire"
+
+#: ../comments.php:20
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: ../comments.php:20
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../comments.php:24 ../comments.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Commentaires plus anciens"
+
+#: ../comments.php:25 ../comments.php:38
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Commentaires plus récents<span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:44
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:64
+msgid "Submit Comment"
+msgstr "Envoyer le commentaire"
+
+#: ../comments.php:64
+msgid "Leave a Comment"
+msgstr "Laisser un commentaire"
+
+#: ../comments.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Répondre à %s"
+
+#: ../footer.php:15
+msgid "Designed by "
+msgstr "Dessiné par"
+
+#: ../footer.php:15
+msgid "Powered by "
+msgstr "Propulsé par"
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr "Menu primaire"
+
+#: ../functions.php:49
+msgid "Secondary Menu"
+msgstr "Menu Secondaire"
+
+#: ../header.php:52 ../page-search.php:48
+msgid "search this site..."
+msgstr "Rechercher..."
+
+#: ../header.php:68 ../header.php:103
+msgid "Home"
+msgstr "Accueil"
+
+#: ../home.php:10
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: ../page-blog.php:48 ../page-contact.php:97 ../page-full.php:34
+#: ../page-gallery.php:44 ../page-login.php:41 ../page-search.php:41
+#: ../page-search.php:51 ../page-sitemap.php:41 ../page-sitemap.php:45
+#: ../page-template-portfolio.php:53 ../page.php:29
+msgid "Pages"
+msgstr "Pages"
+
+#: ../page-blog.php:63
+msgid "Posted"
+msgstr "Posté"
+
+#: ../page-blog.php:63
+msgid "by"
+msgstr "par"
+
+#: ../page-blog.php:63
+msgid "on"
+msgstr "le"
+
+#: ../page-blog.php:63
+msgid "in"
+msgstr "dans"
+
+#: ../page-blog.php:63
+msgid "0 comments"
+msgstr "0 commentaire"
+
+#: ../page-blog.php:63
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#: ../page-blog.php:63
+msgid "comments"
+msgstr "commentaires"
+
+#: ../page-blog.php:83
+msgid "read more"
+msgstr "Lire la suite"
+
+#: ../page-blog.php:106 ../page-contact.php:152 ../page-full.php:35
+#: ../page-gallery.php:86 ../page-login.php:57 ../page-search.php:87
+#: ../page-sitemap.php:74 ../page-template-portfolio.php:175 ../page.php:30
+msgid "Edit this page"
+msgstr "Modifier cette page"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr "Assurez vous d'avoir renseigné le captcha"
+
+#: ../page-contact.php:22
+msgid "Numbers regenerated."
+msgstr "Chiffres régénérés"
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr "Captcha invalide"
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr "Assurez vous d'avoir renseigné tous les champs."
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr "Adresse email invalide!"
+
+#: ../page-contact.php:65
+msgid "Thanks for contacting us"
+msgstr "Merci de prendre contact avec nous"
+
+#: ../page-contact.php:107 ../page-contact.php:108
+msgid "Name"
+msgstr "Nom"
+
+#: ../page-contact.php:112 ../page-contact.php:113
+msgid "Email Address"
+msgstr "Adresse email"
+
+#: ../page-contact.php:117 ../page-contact.php:118
+msgid "Subject"
+msgstr "Sujet"
+
+#: ../page-contact.php:125
+msgid "Captcha: "
+msgstr "Captcha: "
+
+#: ../page-contact.php:136 ../page-contact.php:137
+msgid "Message"
+msgstr "Message"
+
+#: ../page-contact.php:142
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: ../page-contact.php:143 ../page-search.php:79
+msgid "Submit"
+msgstr "Envoyer"
+
+#: ../page-gallery.php:68 ../page-template-portfolio.php:127
+msgid "Zoom in"
+msgstr "Zoomer"
+
+#: ../page-gallery.php:69 ../page-template-portfolio.php:128
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: ../page-login.php:47
+msgid "Username"
+msgstr "Identifiant"
+
+#: ../page-login.php:48
+msgid "Password"
+msgstr "Mot de passe"
+
+#: ../page-search.php:45
+msgid "search this website"
+msgstr "Rechercher sur ce site"
+
+#: ../page-search.php:50
+msgid "Posts"
+msgstr "Articles"
+
+#: ../page-search.php:54
+msgid "Select a month"
+msgstr "Sélectionner un mois"
+
+#: ../page-sitemap.php:50
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../page-sitemap.php:55
+msgid "Tags"
+msgstr "Tags"
+
+#: ../page-sitemap.php:67
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Rechercher"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:389
+msgid "Saving..."
+msgstr "Enregistrement"
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Options enregistrées."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Options"
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "Paramètres enregistrés"
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "Réinitialiser les paramètres"
+
+#: ../epanel/core_functions.php:111
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Navigation"
+
+#: ../epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr "Paramètres de mise en page"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Gestion des publicités"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Couleurs"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Intégration"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Documentation"
+
+#: ../epanel/core_functions.php:204
+msgid "Upload Image"
+msgstr "Envoyer une image"
+
+#: ../epanel/core_functions.php:229
+msgid "You don't have pages"
+msgstr "Vous n'avez pas de pages"
+
+#: ../epanel/core_functions.php:362
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#: ../epanel/core_functions.php:373
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?"
+msgstr ""
+"Ceci remettra toutes les options à leur valeur par défaut. <strong>Voulez "
+"vous vraiment faire cela?"
+
+#: ../epanel/custom_functions.php:786
+msgid "Image doesn't exist"
+msgstr "L'image n'existe pas"
+
+#: ../epanel/custom_functions.php:975
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Il s'agit d'une installation toute fraîche du "
+"theme %1$s. N'oubliez pas de vous rendre sur l'<a href=\"%2$s\">ePanel</a> "
+"pour le configurer. Ce message disparaîtra une fois le bouton \"Enregistrer "
+"les modifications\" sur la <a href=\"%2$s\">page d'options du theme</a>.</"
+"p></div>"
+
+#: ../epanel/custom_functions.php:987
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not "
+"available for this theme. If this is an Elegant Themes theme, then you must "
+"re-download the theme from the member's area and <a href=\"http://www."
+"elegantthemes.com/members-area/documentation.html#update\" target=\"_blank"
+"\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr ""
+"Une nouvelle version de %1$s est disponible.<a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">Voir les détails de la version %3$s </a>. <em>Mises à jour "
+"automatiques non disponibles pour ce theme. S'il s'agit d'un thème Elegant "
+"Themes, il vous faut re-télécharger ce thème depuis la zone membre et <a "
+"href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" "
+"target=\"_blank\">le ré-installer</a> pour le mettre à jour.</em>"
+
+#: ../epanel/custom_functions.php:991
+msgid ""
+"Auto-updates are not available for this theme. If this is an Elegant Themes "
+"theme, then you must re-download the theme from the member's area and <a "
+"href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" "
+"target=\"_blank\">re-install it</a> in order to update it to the latest "
+"version."
+msgstr ""
+"Les mises à jour automatiques ne sont pas disponibles pour ce thème. S'il "
+"s'agit d'un thème Elegant Themes, il vous faut re-télécharger ce thème "
+"depuis la zone membre et <a href=\"http://www.elegantthemes.com/members-area/"
+"documentation.html#update\" target=\"_blank\">le ré-installer</a> pour le "
+"mettre à jour.</em>"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Fill"
+msgstr "Remplir"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "field"
+msgstr "champs"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Invalid email"
+msgstr "Adresse email invalide"
+
+#: ../epanel/page_templates/page_templates.php:37
+msgid "ET Page Template Settings"
+msgstr "Paramètres de mise en page des pages"
+
+#: ../epanel/page_templates/page_templates.php:64
+msgid ""
+"Additional settings appear here, when one of ET page templates is selected "
+"( Page Attributes -> Template )"
+msgstr ""
+"Des paramètres supplémentaires apparaîtront ici, lorsque l'une des mises en "
+"page ET est sélectionnée ( Attributs de la page -> Mise en page)"
+
+#: ../epanel/page_templates/page_templates.php:69
+msgid "Full Width Page"
+msgstr "Pleine largeur"
+
+#: ../epanel/page_templates/page_templates.php:74
+msgid "Regenerate captcha numbers"
+msgstr "Régénérer les chiffres captcha"
+
+#: ../epanel/page_templates/page_templates.php:78
+msgid "Email To:"
+msgstr "Email à:"
+
+#: ../epanel/page_templates/page_templates.php:84
+msgid "Blog Style mode"
+msgstr "Style Blog"
+
+#: ../epanel/page_templates/page_templates.php:89
+msgid "Hide Auto Thumbnail"
+msgstr "Cacher automatiquement les miniatures"
+
+#: ../epanel/page_templates/page_templates.php:94
+msgid "Show Titles"
+msgstr "Montrer les titres"
+
+#: ../epanel/page_templates/page_templates.php:99
+msgid "Show Descriptions"
+msgstr "Montrer les descriptions"
+
+#: ../epanel/page_templates/page_templates.php:104
+msgid "Detect Portrait Images"
+msgstr "Détecter les images en mode portrait"
+
+#: ../epanel/page_templates/page_templates.php:108
+msgid "Thumbnail Size:"
+msgstr "Taille des miniatures"
+
+#: ../epanel/page_templates/page_templates.php:109
+msgid "Small"
+msgstr "Petite"
+
+#: ../epanel/page_templates/page_templates.php:110
+msgid "Medium"
+msgstr "Moyenne"
+
+#: ../epanel/page_templates/page_templates.php:111
+msgid "Large"
+msgstr "Grande"
+
+#: ../epanel/page_templates/page_templates.php:115
+#: ../epanel/page_templates/page_templates.php:120
+msgid "Number of posts per page:"
+msgstr "Nombre d'articles par page"
+
+#: ../epanel/page_templates/page_templates.php:125
+msgid "Select blog categories:"
+msgstr "Sélectionner la catégorie:"
+
+#: ../epanel/page_templates/page_templates.php:144
+msgid "Select gallery categories:"
+msgstr "Sélectionner les catégories pour la galerie:"
+
+#: ../epanel/shortcodes/shortcodes.php:15 ../includes/recent_scroller.php:2
+msgid "Previous"
+msgstr "Précédent"
+
+#: ../epanel/shortcodes/shortcodes.php:15 ../includes/recent_scroller.php:51
+msgid "Next"
+msgstr "Suivant"
+
+#: ../epanel/shortcodes/shortcodes.php:300
+msgid "Member Login"
+msgstr "Connexion Membre"
+
+#: ../epanel/shortcodes/shortcodes.php:303
+msgid "Username: "
+msgstr "Identifiant"
+
+#: ../epanel/shortcodes/shortcodes.php:304
+msgid "Password: "
+msgstr "Mot de passe"
+
+#: ../epanel/shortcodes/shortcodes.php:305
+msgid "Login"
+msgstr "Connexion"
+
+#: ../epanel/shortcodes/shortcodes.php:341
+msgid "Add a Tooltip Text"
+msgstr "Ajouter un texte \"tooltip\""
+
+#: ../epanel/shortcodes/shortcodes.php:363
+msgid "Click here to learn more"
+msgstr "Cliquer ici pour en apprendre plus"
+
+#: ../epanel/shortcodes/shortcodes.php:971
+msgid "Caption"
+msgstr "Légende"
+
+#: ../epanel/shortcodes/shortcodes.php:972
+msgid "Caption goes here"
+msgstr "La légende est ici"
+
+#: ../epanel/shortcodes/shortcodes.php:973
+msgid "Caption title goes here"
+msgstr "Le titre de la légende ira ici"
+
+#: ../epanel/shortcodes/shortcodes.php:977
+msgid "State"
+msgstr "État"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "Select between expanded and closed state"
+msgstr "Sélectionner l'état: ouvert ou fermé"
+
+#: ../epanel/shortcodes/shortcodes.php:984
+#: ../epanel/shortcodes/shortcodes.php:1000
+#: ../epanel/shortcodes/shortcodes.php:1029
+#: ../epanel/shortcodes/shortcodes.php:1109
+msgid "Content"
+msgstr "Le contenu"
+
+#: ../epanel/shortcodes/shortcodes.php:985
+#: ../epanel/shortcodes/shortcodes.php:1001
+#: ../epanel/shortcodes/shortcodes.php:1087
+#: ../epanel/shortcodes/shortcodes.php:1110
+msgid "Content goes here"
+msgstr "Le contenu ici"
+
+#: ../epanel/shortcodes/shortcodes.php:986
+#: ../epanel/shortcodes/shortcodes.php:1002
+#: ../epanel/shortcodes/shortcodes.php:1031
+msgid "Content text or html"
+msgstr "Contenu texte ou html"
+
+#: ../epanel/shortcodes/shortcodes.php:993
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Type"
+msgstr "Type"
+
+#: ../epanel/shortcodes/shortcodes.php:995
+msgid "Type of the box"
+msgstr "Type de boîte"
+
+#: ../epanel/shortcodes/shortcodes.php:1009
+msgid "Link"
+msgstr "Vérifiez votre adresse email pour le lien de vérification."
+
+#: ../epanel/shortcodes/shortcodes.php:1011
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "Choose button type"
+msgstr "Choisissez le type de bouton"
+
+#: ../epanel/shortcodes/shortcodes.php:1022
+msgid "Color"
+msgstr "Couleur"
+
+#: ../epanel/shortcodes/shortcodes.php:1024
+msgid "Choose button color"
+msgstr "Choisir la couleur du bouton"
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Link text"
+msgstr "Texte du lien"
+
+#: ../epanel/shortcodes/shortcodes.php:1035
+msgid "Icon"
+msgstr "Icône"
+
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Used for icon button type"
+msgstr "Utilisé pour l'icône du bouton"
+
+#: ../epanel/shortcodes/shortcodes.php:1042
+msgid "Open link in new window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#: ../epanel/shortcodes/shortcodes.php:1044
+msgid "Select yes if the link should be opened in a new window"
+msgstr ""
+"Sélectionnez oui si le lien devrait être ouvert dans une nouvelle fenêtre de "
+"navigation"
+
+#: ../epanel/shortcodes/shortcodes.php:1052
+msgid "Slider Type"
+msgstr "Type de slide"
+
+#: ../epanel/shortcodes/shortcodes.php:1054
+msgid "Select Slider Type here"
+msgstr "Sélectionnez le type de diaporama ici"
+
+#: ../epanel/shortcodes/shortcodes.php:1059
+msgid "Effect"
+msgstr "Effet"
+
+#: ../epanel/shortcodes/shortcodes.php:1061
+msgid "Select Animation Effect"
+msgstr "Sélectionnez l'effet d'animation"
+
+#: ../epanel/shortcodes/shortcodes.php:1066
+msgid "Auto"
+msgstr "Auto"
+
+#: ../epanel/shortcodes/shortcodes.php:1068
+msgid "Choose yes if you want for automatic slider animation"
+msgstr ""
+"Choisissez oui si vous souhaitez un défilement automatique du diaporama"
+
+#: ../epanel/shortcodes/shortcodes.php:1073
+msgid "Auto Speed"
+msgstr "Vitesse automatique"
+
+#: ../epanel/shortcodes/shortcodes.php:1075
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+"Vitesse d'animation automatique du diaporama (ne fonctionne que si Auto est "
+"sur oui)"
+
+#: ../epanel/shortcodes/shortcodes.php:1079
+msgid "Tab Text"
+msgstr "Texte de l'onglet"
+
+#: ../epanel/shortcodes/shortcodes.php:1086
+msgid "Tab Content"
+msgstr "Contenu de l'onglet"
+
+#: ../epanel/shortcodes/shortcodes.php:1088
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+"Collez l'url de l'image ici, si vous avez choisis le type de diaporama "
+"\"images\""
+
+#: ../epanel/shortcodes/shortcodes.php:1096
+msgid "Image Url"
+msgstr "URL de l'image"
+
+#: ../epanel/shortcodes/shortcodes.php:1098
+msgid "Author Image URL"
+msgstr "Auteur"
+
+#: ../epanel/shortcodes/shortcodes.php:1102
+msgid "Use resizing"
+msgstr "Utiliser le redimensionnement"
+
+#: ../epanel/shortcodes/shortcodes.php:1179
+msgid "+ Add One More Tab"
+msgstr "+ Ajouter un onglet"
+
+#: ../epanel/shortcodes/shortcodes.php:1329
+msgid "Image Height"
+msgstr "Hauteur de l'image"
+
+#: ../epanel/shortcodes/shortcodes.php:1330
+msgid "Image Width"
+msgstr "Largeur de l'image"
+
+#: ../includes/breadcrumbs.php:8
+msgid "Posts Tagged &quot;"
+msgstr "Articles Taggés"
+
+#: ../includes/breadcrumbs.php:10 ../includes/breadcrumbs.php:12
+#: ../includes/breadcrumbs.php:14
+msgid "Posts made in"
+msgstr "Articles depuis"
+
+#: ../includes/breadcrumbs.php:16
+msgid "Search results for"
+msgstr "Résultats de recherche"
+
+#: ../includes/breadcrumbs.php:28
+msgid "Posts by "
+msgstr "Posté par"
+
+#: ../includes/featured.php:43
+msgid "Posted by"
+msgstr "Posté par"
+
+#: ../includes/featured.php:43
+msgid " on "
+msgstr " le "
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entrées plus anciennes"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Prochaines entrées &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Aucun résultat"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"La page demandée ne peut-être trouvée. Ré-essayez en affinant votre "
+"recherche, ou en utilisant le menu ci dessus pour trouver cet article."
+
+#: ../includes/recent_scroller.php:22
+msgid "Recent From"
+msgstr "Récemment par"
+
+#: ../includes/functions/comments.php:13
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: ../includes/functions/comments.php:17
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire attend son approbation."
+
+#: ../includes/functions/comments.php:23
+msgid "Reply"
+msgstr "Répondre"
+
+#: ../includes/functions/installation.php:1
+msgid "Read DelicateNews Documentation"
+msgstr "Lire la documentation DelicateNews"
+
+#: ../includes/widgets/widget-tabbed.php:20
+msgid "Recent"
+msgstr "Récents"
+
+#: ../includes/widgets/widget-tabbed.php:21
+msgid "Popular"
+msgstr "Populaire"
+
+#: ../includes/widgets/widget-tabbed.php:22
+msgid "Random"
+msgstr "Aléatoire"

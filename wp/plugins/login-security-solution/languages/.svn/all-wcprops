@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/593341/login-security-solution/trunk/languages
+END
+login-security-solution-fr_FR.mo
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/593341/login-security-solution/trunk/languages/login-security-solution-fr_FR.mo
+END
+updatepos.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/586644/login-security-solution/trunk/languages/updatepos.sh
+END
+login-security-solution-fr_FR.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/593341/login-security-solution/trunk/languages/login-security-solution-fr_FR.po
+END
+makemos.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/574365/login-security-solution/trunk/languages/makemos.sh
+END
+login-security-solution.pot
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/593341/login-security-solution/trunk/languages/login-security-solution.pot
+END
+makepot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/574366/login-security-solution/trunk/languages/makepot.sh
+END

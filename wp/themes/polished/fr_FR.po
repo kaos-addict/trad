@@ -1,0 +1,1014 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Polished v3.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-05 15:52+0100\n"
+"Last-Translator: MerMouY <mermouy@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#  Polished
+#: comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Veuillez ne pas charger cette page directement. Merci!"
+
+#  Polished
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Cet article est protégé par mot de passe. Entrez le mot de passe pour voir les commentaires."
+
+#  Polished
+#: comments.php:17
+#, fuzzy
+msgid "No Responses"
+msgstr "Aucune réponse"
+
+#  Polished
+#: comments.php:17
+#, fuzzy
+msgid "One Response"
+msgstr "Une réponse"
+
+#@ Polished
+#: comments.php:17
+#, fuzzy
+msgid "% Responses"
+msgstr "Aucune réponse"
+
+#@ Polished
+#: comments.php:17
+#, fuzzy
+msgid "to "
+msgstr "à"
+
+#@ Polished
+#: comments.php:21
+#: comments.php:34
+#, fuzzy
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Commentaires plus anciens"
+
+#@ Polished
+#: comments.php:22
+#: comments.php:35
+#, fuzzy
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Commentaires récents <span class=\"meta-nav\">&rarr;</span>"
+
+#@ Polished
+#: comments.php:41
+#, fuzzy
+msgid "Trackbacks/Pingbacks"
+msgstr "Lien permanent/rétroliens"
+
+#@ Polished
+#: comments.php:54
+#, fuzzy
+msgid "Comments are closed."
+msgstr "Les commentaires sont clos."
+
+#@ Polished
+#: comments.php:59
+#, fuzzy
+msgid "Submit Comment"
+msgstr "Soumettre le commentaire"
+
+#@ Polished
+#: comments.php:59
+#, fuzzy
+msgid "Leave a Reply"
+msgstr "Répondre"
+
+#@ default
+#: comments.php:59
+#, fuzzy, php-format
+msgid "Leave a Reply to %s"
+msgstr "Répondre à %s"
+
+#@ Polished
+#: epanel/core_functions.php:26
+#: epanel/core_functions.php:389
+#, fuzzy
+msgid "Saving..."
+msgstr "Enregistrement..."
+
+#@ Polished
+#: epanel/core_functions.php:27
+#, fuzzy
+msgid "Options Saved."
+msgstr "Options enregistrées."
+
+#@ Polished
+#: epanel/core_functions.php:73
+#, fuzzy
+msgid "Options"
+msgstr "Options"
+
+#@ Polished
+#: epanel/core_functions.php:73
+#, fuzzy
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#@ Polished
+#: epanel/core_functions.php:90
+#, fuzzy
+msgid "settings saved."
+msgstr "paramètres sauvegardés."
+
+#@ Polished
+#: epanel/core_functions.php:93
+#, fuzzy
+msgid "settings reset."
+msgstr "paramètres réinitialisés."
+
+#@ Polished
+#: epanel/core_functions.php:111
+#, fuzzy
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#@ Polished
+#: epanel/core_functions.php:114
+#, fuzzy
+msgid "Navigation"
+msgstr "Navigation"
+
+#@ Polished
+#: epanel/core_functions.php:117
+#, fuzzy
+msgid "Layout Settings"
+msgstr "Paramètres de mis en page"
+
+#@ Polished
+#: epanel/core_functions.php:120
+#, fuzzy
+msgid "Ad Management"
+msgstr "Gestion des publicités"
+
+#@ Polished
+#: epanel/core_functions.php:123
+#, fuzzy
+msgid "Colorization"
+msgstr "Couleurs"
+
+#@ Polished
+#: epanel/core_functions.php:126
+#, fuzzy
+msgid "SEO"
+msgstr "SEO"
+
+#@ Polished
+#: epanel/core_functions.php:129
+#, fuzzy
+msgid "Integration"
+msgstr "Intégration"
+
+#@ Polished
+#: epanel/core_functions.php:132
+#, fuzzy
+msgid "Support Docs"
+msgstr "Documents d'aide"
+
+#@ Polished
+#: epanel/core_functions.php:203
+#: epanel/core_functions.php:377
+#: page-contact.php:141
+#, fuzzy
+msgid "Reset"
+msgstr "Remise à zéro"
+
+#@ Polished
+#: epanel/core_functions.php:204
+#, fuzzy
+msgid "Upload Image"
+msgstr "Envoyer image"
+
+#@ Polished
+#: epanel/core_functions.php:229
+#, fuzzy
+msgid "You don't have pages"
+msgstr "Vous n'avez aucune page"
+
+#@ Polished
+#: epanel/core_functions.php:362
+#, fuzzy
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#@ Polished
+#: epanel/core_functions.php:373
+#, fuzzy
+msgid "This will return all of the settings throughout the options page to their default values. <strong>Are you sure you want to do this?"
+msgstr "Ceci remettra toutes les options à leurs valeurs par défaut. <strong>Voulez vous vraiment faire cela?"
+
+#@ Polished
+#: epanel/custom_functions.php:434
+#: header.php:67
+#, fuzzy
+msgid "Home"
+msgstr "Dossier personnel"
+
+#@ default
+#: epanel/custom_functions.php:840
+#, fuzzy
+msgid "Image doesn't exist"
+msgstr "Le fichier %s n'existe pas."
+
+#@ Polished
+#: epanel/custom_functions.php:1029
+#, fuzzy, php-format
+msgid "<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will disappear once you have clicked the Save button within the <a href=\"%2$s\">theme's options page</a>.</p></div>"
+msgstr "<div class=\"updated\"><p>Il s'agit d'une installation toute fraîche du thème %1$s. N'oubliez pas d'aller sur la page <a href=\"%2$s\">ePanel</a> pour le configurer. Ce message disparaîtra une fois que vous aurez cliqué sur le bouton Enregistrer sur la <a href=\"%2$s\">page des options</a>.</p></div>"
+
+#@ Polished
+#: epanel/custom_functions.php:1041
+#, fuzzy, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not available for this theme. If this is an Elegant Themes theme, then you must re-download the theme from the member's area and <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr "Une nouvelle version de %1$s est disponible. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">Voir détails de la version %3$s</a>. <em>Les mises à jour automatiques ne s'appliquent pas pour ce thème. S'il s'agit d'un thème Elegant Themes, il vous faut alors le re-télécharger depuis votre espace membre et <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-installez le</a> afin d'utiliser la dernière version.</em>"
+
+#@ Polished
+#: epanel/custom_functions.php:1045
+#, fuzzy
+msgid "Auto-updates are not available for this theme. If this is an Elegant Themes theme, then you must re-download the theme from the member's area and <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-install it</a> in order to update it to the latest version."
+msgstr "Les mises à jour automatiques ne s'appliquent pas pour ce thème. S'il s'agit d'un thème Elegant Themes, il vous faut alors le re-télécharger depuis votre espace membre et <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-installez le</a> afin d'utiliser la dernière version.</em>"
+
+#@ Polished
+#: epanel/options_polished.php:133
+#, fuzzy
+msgid "Custom CSS"
+msgstr "Couleur (CSS)"
+
+#  Polished
+#: epanel/options_polished.php:137
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:22
+#, fuzzy
+msgid "Captcha"
+msgstr "Captcha: "
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:22
+#, fuzzy
+msgid "Fill"
+msgstr "Remplir"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:22
+#, fuzzy
+msgid "field"
+msgstr "Champ"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:22
+#, fuzzy
+msgid "Invalid email"
+msgstr "Email non valide. "
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:37
+#, fuzzy
+msgid "ET Page Template Settings"
+msgstr "ET paramètres des modèles de pages"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:64
+#, fuzzy
+msgid "Additional settings appear here, when one of ET page templates is selected ( Page Attributes -> Template )"
+msgstr "Des paramètres additionnels apparaîtront, lorsqu'un modèle de page sera sélectionné ( Attributs de la page -> Modèle )"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:69
+#, fuzzy
+msgid "Full Width Page"
+msgstr "Page pleine largeur"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:74
+#, fuzzy
+msgid "Regenerate captcha numbers"
+msgstr "Rafraîchir les chiffres capcha"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:78
+#, fuzzy
+msgid "Email To:"
+msgstr "Email à:"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:84
+#, fuzzy
+msgid "Blog Style mode"
+msgstr "Style de blog"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:89
+#, fuzzy
+msgid "Hide Auto Thumbnail"
+msgstr "Cacher les miniatures automatiques"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:94
+#, fuzzy
+msgid "Show Titles"
+msgstr "Afficher les titres"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:99
+#, fuzzy
+msgid "Show Descriptions"
+msgstr "Afficher les descriptions"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:104
+#, fuzzy
+msgid "Detect Portrait Images"
+msgstr "Détecter les image en mode portrait"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:108
+#, fuzzy
+msgid "Thumbnail Size:"
+msgstr "Taille des miniatures:"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:109
+#, fuzzy
+msgid "Small"
+msgstr "Petit"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:110
+#, fuzzy
+msgid "Medium"
+msgstr "Moyen"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:111
+#, fuzzy
+msgid "Large"
+msgstr "Grand"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:115
+#: epanel/page_templates/page_templates.php:120
+#, fuzzy
+msgid "Number of posts per page:"
+msgstr "Nombre d'article par page:"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:125
+#, fuzzy
+msgid "Select blog categories:"
+msgstr "Sélectionnez les catégories du blog:"
+
+#@ Polished
+#: epanel/page_templates/page_templates.php:144
+#, fuzzy
+msgid "Select gallery categories:"
+msgstr "Sélectionnez les catégories de gallerie"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:15
+#, fuzzy
+msgid "Previous"
+msgstr "Précédent"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:15
+#, fuzzy
+msgid "Next"
+msgstr "Suivant"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:302
+#, fuzzy
+msgid "Member Login"
+msgstr "Connexion membre"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:305
+#, fuzzy
+msgid "Username: "
+msgstr "Nom d'utilisateur : "
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:306
+#, fuzzy
+msgid "Password: "
+msgstr "Mot de passe : "
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:307
+#, fuzzy
+msgid "Login"
+msgstr "Se connecter"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:343
+#, fuzzy
+msgid "Add a Tooltip Text"
+msgstr "Ajouter un texte en indice"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:365
+#, fuzzy
+msgid "Click here to learn more"
+msgstr "Cliquez ici pour en apprendre plus"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:973
+#, fuzzy
+msgid "Caption"
+msgstr "Légende"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:974
+#, fuzzy
+msgid "Caption goes here"
+msgstr "Le légende se place ici"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:975
+#, fuzzy
+msgid "Caption title goes here"
+msgstr "Le titre de la légende est ici"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:979
+#, fuzzy
+msgid "State"
+msgstr "État"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:981
+#, fuzzy
+msgid "Select between expanded and closed state"
+msgstr "Sélectionnez l'état entre étendu et fermé"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:986
+#: epanel/shortcodes/shortcodes.php:1002
+#: epanel/shortcodes/shortcodes.php:1031
+#: epanel/shortcodes/shortcodes.php:1111
+#, fuzzy
+msgid "Content"
+msgstr "Contenu"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:987
+#: epanel/shortcodes/shortcodes.php:1003
+#: epanel/shortcodes/shortcodes.php:1089
+#: epanel/shortcodes/shortcodes.php:1112
+#, fuzzy
+msgid "Content goes here"
+msgstr "Le contenu se trouve ici"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:988
+#: epanel/shortcodes/shortcodes.php:1004
+#: epanel/shortcodes/shortcodes.php:1033
+#, fuzzy
+msgid "Content text or html"
+msgstr "Contenu texte ou html"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:995
+#: epanel/shortcodes/shortcodes.php:1017
+#, fuzzy
+msgid "Type"
+msgstr "Type "
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:997
+#, fuzzy
+msgid "Type of the box"
+msgstr "Type de boîte"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1011
+#, fuzzy
+msgid "Link"
+msgstr "Lien"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1013
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1019
+#, fuzzy
+msgid "Choose button type"
+msgstr "Choisir le type de bouton"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1024
+#, fuzzy
+msgid "Color"
+msgstr "Couleur"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1026
+#, fuzzy
+msgid "Choose button color"
+msgstr "Choisir la couleur du bouton"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1032
+#, fuzzy
+msgid "Link text"
+msgstr "Texte du lien"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1037
+#, fuzzy
+msgid "Icon"
+msgstr "Icône"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1039
+#, fuzzy
+msgid "Used for icon button type"
+msgstr "Utilisé par le type de bouton icone"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1044
+#, fuzzy
+msgid "Open link in new window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1046
+#, fuzzy
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Choisissez oui si le lien doit être ouvert dans une nouvelle fenêtre"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1054
+#, fuzzy
+msgid "Slider Type"
+msgstr "Type de diaporama"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1056
+#, fuzzy
+msgid "Select Slider Type here"
+msgstr "Sélectionnez le type de diaporama ici"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1061
+#, fuzzy
+msgid "Effect"
+msgstr "Effet"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1063
+#, fuzzy
+msgid "Select Animation Effect"
+msgstr "Sélectionnez l'effet d'animation"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1068
+#, fuzzy
+msgid "Auto"
+msgstr "Auto"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1070
+#, fuzzy
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Choisissez oui si vous voulez votre diaporama auto animé"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1075
+#, fuzzy
+msgid "Auto Speed"
+msgstr "Vitesse auto"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1077
+#, fuzzy
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Vitesse du diaporama automatique (ne fonctionne que si Auto est sur oui)"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1081
+#, fuzzy
+msgid "Tab Text"
+msgstr "Prochain onglet"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1088
+#, fuzzy
+msgid "Tab Content"
+msgstr "Contenu de l'onglet"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1090
+#, fuzzy
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr "Collez l'adresse url ici, si vous choisissez le type de diaporama \"images\""
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1098
+#, fuzzy
+msgid "Image Url"
+msgstr "Url de l'image"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1100
+#, fuzzy
+msgid "Author Image URL"
+msgstr "Url de l'image de l'auteur"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1104
+#, fuzzy
+msgid "Use resizing"
+msgstr "Utiliser le redimensionnement"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1181
+#, fuzzy
+msgid "+ Add One More Tab"
+msgstr "+ Ajoute un onglet supplémentaire"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1331
+#, fuzzy
+msgid "Image Height"
+msgstr "Hauteur de l'image"
+
+#@ Polished
+#: epanel/shortcodes/shortcodes.php:1332
+#, fuzzy
+msgid "Image Width"
+msgstr "Largeur de l'image"
+
+#@ Polished
+#: footer.php:14
+#, fuzzy
+msgid "Powered by "
+msgstr "Propulsé par: "
+
+#@ Polished
+#: footer.php:14
+#, fuzzy
+msgid "Designed by "
+msgstr "Conçu par: "
+
+#@ Polished
+#: functions.php:49
+#, fuzzy
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#@ Polished
+#: header.php:52
+#: page-search.php:47
+#, fuzzy
+msgid "search this site..."
+msgstr "rechercher sur ce site"
+
+#@ Polished
+#: includes/entry.php:14
+#: includes/entry.php:20
+#, fuzzy, php-format
+msgid "Permanent Link to %s"
+msgstr "Lier vers le dossier Bureau"
+
+#@ Polished
+#: includes/entry.php:31
+#: includes/featured.php:81
+#, fuzzy
+msgid "Read More"
+msgstr "Lire la suite"
+
+#@ Polished
+#: includes/featured.php:40
+#, fuzzy
+msgid "Posted by"
+msgstr "Déplacer vers de ... bureaux"
+
+#@ Polished
+#: includes/featured.php:40
+#, fuzzy
+msgid " on "
+msgstr "Oui"
+
+#@ Polished
+#: includes/functions/comments.php:13
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#@ Polished
+#: includes/functions/comments.php:14
+#, fuzzy, php-format
+msgid "%1$s at %2$s"
+msgstr "le @B de @bs du @g %g à %b @C.\n"
+
+#@ Polished
+#: includes/functions/comments.php:14
+#, fuzzy
+msgid "(Edit)"
+msgstr "(Éditer)"
+
+#@ default
+#: includes/functions/comments.php:18
+#, fuzzy
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération"
+
+#@ Polished
+#: includes/functions/comments.php:24
+#, fuzzy
+msgid "reply"
+msgstr "Répondre"
+
+#@ Polished
+#: includes/functions/installation.php:1
+#, fuzzy
+msgid "Read Polished Documentation"
+msgstr "Lire la documentation de Boutique"
+
+#@ Polished
+#: includes/navigation.php:2
+#, fuzzy
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entrées plus anciennes"
+
+#@ Polished
+#: includes/navigation.php:3
+#, fuzzy
+msgid "Next Entries &raquo;"
+msgstr "Prochaines entrées &raquo;"
+
+#@ Polished
+#: includes/no-results.php:3
+#, fuzzy
+msgid "No Results Found"
+msgstr "Aucun résultat trouvé"
+
+#@ Polished
+#: includes/no-results.php:4
+#, fuzzy
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "La page que vous demandez ne peut être trouvée. Essayez d'affiner votre recherche, ou utilisez la navigation ci-dessus pour retrouver l'article."
+
+#@ Polished
+#: includes/postinfo.php:5
+#: includes/postinfo.php:9
+#: page-blog.php:62
+#, fuzzy
+msgid "Posted"
+msgstr "Posté"
+
+#@ Polished
+#: includes/postinfo.php:5
+#: includes/postinfo.php:9
+#: page-blog.php:62
+#, fuzzy
+msgid "by"
+msgstr "par"
+
+#@ Polished
+#: includes/postinfo.php:5
+#: includes/postinfo.php:9
+#: page-blog.php:62
+#, fuzzy
+msgid "on"
+msgstr "le"
+
+#@ Polished
+#: includes/postinfo.php:5
+#: includes/postinfo.php:9
+#: page-blog.php:62
+#, fuzzy
+msgid "in"
+msgstr "dans"
+
+#@ Polished
+#: includes/postinfo.php:5
+#: includes/postinfo.php:9
+#: page-blog.php:62
+#, fuzzy
+msgid "0 comments"
+msgstr "0 commentaire"
+
+#@ Polished
+#: includes/postinfo.php:5
+#: includes/postinfo.php:9
+#: page-blog.php:62
+#, fuzzy
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#@ Polished
+#: includes/postinfo.php:5
+#: includes/postinfo.php:9
+#: page-blog.php:62
+#, fuzzy
+msgid "comments"
+msgstr "commentaires"
+
+#@ Polished
+#: page-blog.php:47
+#: page-contact.php:96
+#: page-full.php:35
+#: page-gallery.php:43
+#: page-login.php:40
+#: page-search.php:40
+#: page-search.php:50
+#: page-sitemap.php:40
+#: page-sitemap.php:44
+#: page-template-portfolio.php:52
+#: page.php:29
+#: single.php:37
+#, fuzzy
+msgid "Pages"
+msgstr "Pages"
+
+#@ Polished
+#: page-blog.php:82
+#, fuzzy
+msgid "read more"
+msgstr "Lire la suite"
+
+#@ Polished
+#: page-blog.php:105
+#: page-contact.php:151
+#: page-full.php:36
+#: page-gallery.php:85
+#: page-login.php:58
+#: page-search.php:86
+#: page-sitemap.php:73
+#: page-template-portfolio.php:174
+#: page.php:30
+#: single.php:39
+#, fuzzy
+msgid "Edit this page"
+msgstr "Éditer cette page"
+
+#@ Polished
+#: page-contact.php:22
+#, fuzzy
+msgid "Make sure you entered the captcha. "
+msgstr "Vérifiez d'avoir entrer le captcha. "
+
+#@ Polished
+#: page-contact.php:25
+#, fuzzy
+msgid "Numbers regenerated."
+msgstr "Chiffres régénérés."
+
+#@ Polished
+#: page-contact.php:26
+#, fuzzy
+msgid "You entered the wrong number in captcha. "
+msgstr "Les chiffres ne correspondent pas au captcha. "
+
+#@ Polished
+#: page-contact.php:35
+#, fuzzy
+msgid "Make sure you fill all fields. "
+msgstr "Assurez vous d'avoir rempli tous les champs. "
+
+#@ Polished
+#: page-contact.php:40
+#, fuzzy
+msgid "Invalid Email. "
+msgstr "Email non valide. "
+
+#@ Polished
+#: page-contact.php:68
+#, fuzzy
+msgid "Thanks for contacting us"
+msgstr "Merci de nous contacter"
+
+#@ Polished
+#: page-contact.php:106
+#: page-contact.php:107
+#, fuzzy
+msgid "Name"
+msgstr "Nom"
+
+#@ Polished
+#: page-contact.php:111
+#: page-contact.php:112
+#, fuzzy
+msgid "Email Address"
+msgstr "Adresse Email"
+
+#@ Polished
+#: page-contact.php:116
+#: page-contact.php:117
+#, fuzzy
+msgid "Subject"
+msgstr "Sujet"
+
+#@ Polished
+#: page-contact.php:124
+#, fuzzy
+msgid "Captcha: "
+msgstr "Captcha: "
+
+#@ Polished
+#: page-contact.php:135
+#: page-contact.php:136
+#, fuzzy
+msgid "Message"
+msgstr "Message"
+
+#@ Polished
+#: page-contact.php:142
+#: page-search.php:78
+#, fuzzy
+msgid "Submit"
+msgstr "Envoyer"
+
+#@ Polished
+#: page-gallery.php:67
+#: page-template-portfolio.php:126
+#, fuzzy
+msgid "Zoom in"
+msgstr "Zoom avant"
+
+#@ Polished
+#: page-gallery.php:68
+#: page-template-portfolio.php:127
+#, fuzzy
+msgid "Read more"
+msgstr "Lire la suite"
+
+#@ Polished
+#: page-login.php:48
+#, fuzzy
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#@ Polished
+#: page-login.php:49
+#, fuzzy
+msgid "Password"
+msgstr "Mot de passe"
+
+#@ Polished
+#: page-search.php:44
+#, fuzzy
+msgid "search this website"
+msgstr "rechercher sur ce site"
+
+#@ Polished
+#: page-search.php:49
+#, fuzzy
+msgid "Posts"
+msgstr "Articles"
+
+#@ Polished
+#: page-search.php:53
+#, fuzzy
+msgid "Select a month"
+msgstr "Sélectionnez un mois"
+
+#@ Polished
+#: page-sitemap.php:49
+#, fuzzy
+msgid "Categories"
+msgstr "Catégories"
+
+#@ Polished
+#: page-sitemap.php:54
+#, fuzzy
+msgid "Tags"
+msgstr "Étiquettes"
+
+#@ Polished
+#: page-sitemap.php:66
+#, fuzzy
+msgid "Authors"
+msgstr "Auteurs"
+
+#@ Polished
+#: searchform.php:4
+#, fuzzy
+msgid "Search"
+msgstr "Recherche"
+

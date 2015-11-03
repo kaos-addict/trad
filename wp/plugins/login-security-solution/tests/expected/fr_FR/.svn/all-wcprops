@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/574363/login-security-solution/trunk/tests/expected/fr_FR
+END
+LoginFailTest--test_process_login_fail__post_threshold
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/574363/login-security-solution/trunk/tests/expected/fr_FR/LoginFailTest--test_process_login_fail__post_threshold
+END
+LoginFailTest--test_wp_login__post_breach_threshold
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/574363/login-security-solution/trunk/tests/expected/fr_FR/LoginFailTest--test_wp_login__post_breach_threshold
+END
+LoginFailTest--test_wp_login__post_breach_threshold_verified_ip
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/574363/login-security-solution/trunk/tests/expected/fr_FR/LoginFailTest--test_wp_login__post_breach_threshold_verified_ip
+END
